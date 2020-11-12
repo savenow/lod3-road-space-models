@@ -10,7 +10,7 @@ This repo contains open datasets of the [research project SAVe](https://save-in.
 ## :house: LoD3 Road Space Models in CityGML
 
 This [CityGML](https://www.ogc.org/standards/citygml) dataset contains road space models (over 50 building models) in the area of [Ingolstadt](https://en.wikipedia.org/wiki/Ingolstadt).
-To ensure the highest accuracy geometrically as well as semantically, the dataset was manually modeled based on the mobile laser scannings provided by the company [3D Mapping Solutions GmbH](https://www.3d-mapping.de/en/) (relative accuracy in the range of 1-3cm).
+To ensure the highest accuracy geometrically as well as semantically, the dataset was manually modeled based on the mobile laser scannings (MLS) provided by the company [3D Mapping Solutions GmbH](https://www.3d-mapping.de/en/) (relative accuracy in the range of 1-3cm).
 In order to enable the modification of the datasets, SketchUp project files are also provided along with creation guidelines.
 
 - Download: 
@@ -32,7 +32,7 @@ In order to enable the modification of the datasets, SketchUp project files are 
 
 ## :triangular_flag_on_post: What is modeled in LoD3?
 
-There are several approaches to model Building in CityGML 2.0 (e.g. see [Bilijecki et al.](http://pure.tudelft.nl/ws/portalfiles/portal/4377508/Biljecki2016to.pdf)). In our case, due to the acquistion geometry of mobile laser scanning point clouds, the Building object consists of very detailed representation of facades elements but on the other hand it might lack roof elements and entities located in the Building's backyard. Thus, we encourage to see the list below for detailed description of the Building in our Ingolstadt LoD3 dataset:
+There are several approaches to model Building in CityGML 2.0 (e.g. see [Biljecki et al.](http://pure.tudelft.nl/ws/portalfiles/portal/4377508/Biljecki2016to.pdf)). In our case, due to the acquistion geometry of MLS point clouds, the Building object consists of very detailed representation of facades elements but on the other hand it might lack roof elements and entities located in the Building's backyard. Thus, we encourage to see the list below for detailed description of the Building in our Ingolstadt LoD3 dataset:
 
 
 - :house: Building consists of:
@@ -53,7 +53,7 @@ There are several approaches to model Building in CityGML 2.0 (e.g. see [Bilijec
 		- (Some) Dormers
 	- Textures (approximated based on visual inspection)
 
-- :house: Building does NOT consists of:
+- :house: Building does **NOT** consists of:
 	- Overhanging Building Elements
 	- Roof structure details
 	- Objects located in the Building's backyard (not facing the street)

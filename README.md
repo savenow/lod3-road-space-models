@@ -25,9 +25,9 @@ In order to enable the modification of the datasets, SketchUp project files are 
 	- :eyeglasses: [Creating LoD3 Models Based on Point Clouds](https://creating-citygml-datasets.readthedocs.io/en/latest/creation-guidelines/lod3-models-based-on-point-clouds.html)
 
 <p float="center">
-    <img src="images/lod3-models-citygml.png" width="100%" title="Spatio-semantic LoD3 models with inspection of the selected feature's information"/>
-    <img src="images/lod3-models-citygml-with-point-clouds.png" width="49%" title="LoD3 models visualized along MLS point cloud"/>
-    <img src="images/lod3-models-citygml-overview-3d.png" width="49%" title="Overview of LoD3 models"/>
+    <img src="documentation/images/lod3-models-citygml.png" width="100%" title="Spatio-semantic LoD3 models with inspection of the selected feature's information"/>
+    <img src="documentation/images/lod3-models-citygml-with-point-clouds.png" width="49%" title="LoD3 models visualized along MLS point cloud"/>
+    <img src="documentation/images/lod3-models-citygml-overview-3d.png" width="49%" title="Overview of LoD3 models"/>
 </p>
 
 ## :triangular_flag_on_post: What is modeled in LoD3?

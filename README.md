@@ -63,4 +63,4 @@ You can also contact me directly via mail [benedikt.schwab@tum.de](mailto:benedi
 
 ## :handshake: Thanks
 
-Very special acknowledgements are due to [Sophie](https://github.com/Sophie876) and [Olaf](https://github.com/OloOcki), who worked diligently on the development of the methodology and the realization of the modeling.
+Very special acknowledgements are due to [Sophie Haas Goschenhofer](https://github.com/Sophie876) and [Olaf Wysocki](https://github.com/OloOcki), who worked diligently on the development of the methodology and the realization of the modeling.

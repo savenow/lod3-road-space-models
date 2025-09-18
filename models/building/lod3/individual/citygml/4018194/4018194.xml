@@ -1,0 +1,2801 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Exported with 3DIS GmbH (https://www.3dis.de) CityEditor 2.23.0.0 -->
+<!-- Date: 2021-03-16 17:17:46 +0100 ModelName: unnamed ModelPath: C:\Users\Windows\Documents\Geoinformatik HIWI\neue Ordnerstruktur\lod3-modeling-workspace\4_Delivery\RoadSpaceModel_Delivery\4018194\2_SketchUp_Project\4018194_v4.skp -->
+<core:CityModel xmlns:core="http://www.opengis.net/citygml/2.0" xmlns:app="http://www.opengis.net/citygml/appearance/2.0" xmlns:brid="http://www.opengis.net/citygml/bridge/2.0" xmlns:bldg="http://www.opengis.net/citygml/building/2.0" xmlns:frn="http://www.opengis.net/citygml/cityfurniture/2.0" xmlns:grp="http://www.opengis.net/citygml/cityobjectgroup/2.0" xmlns:gen="http://www.opengis.net/citygml/generics/2.0" xmlns:luse="http://www.opengis.net/citygml/landuse/2.0" xmlns:dem="http://www.opengis.net/citygml/relief/2.0" xmlns:tran="http://www.opengis.net/citygml/transportation/2.0" xmlns:tun="http://www.opengis.net/citygml/tunnel/2.0" xmlns:veg="http://www.opengis.net/citygml/vegetation/2.0" xmlns:wtr="http://www.opengis.net/citygml/waterbody/2.0" xmlns:tex="http://www.opengis.net/citygml/texturedsurface/2.0" xmlns:gml="http://www.opengis.net/gml" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" xmlns:smil20lang="http://www.w3.org/2001/SMIL20/Language" xmlns:smil20="http://www.w3.org/2001/SMIL20/" xmlns:wfs="http://www.opengis.net/wfs" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:noise="http://www.citygml.org/ade/noise_de/2.0" xsi:schemaLocation="http://www.opengis.net/citygml/2.0 http://schemas.opengis.net/citygml/2.0/cityGMLBase.xsd http://www.opengis.net/citygml/appearance/2.0 http://schemas.opengis.net/citygml/appearance/2.0/appearance.xsd http://www.opengis.net/citygml/bridge/2.0 http://schemas.opengis.net/citygml/bridge/2.0/bridge.xsd http://www.opengis.net/citygml/building/2.0 http://schemas.opengis.net/citygml/building/2.0/building.xsd http://www.opengis.net/citygml/cityfurniture/2.0 http://schemas.opengis.net/citygml/cityfurniture/2.0/cityFurniture.xsd http://www.opengis.net/citygml/cityobjectgroup/2.0 http://schemas.opengis.net/citygml/cityobjectgroup/2.0/cityObjectGroup.xsd http://www.opengis.net/citygml/generics/2.0 http://schemas.opengis.net/citygml/generics/2.0/generics.xsd http://www.opengis.net/citygml/landuse/2.0 http://schemas.opengis.net/citygml/landuse/2.0/landUse.xsd http://www.opengis.net/citygml/relief/2.0 http://schemas.opengis.net/citygml/relief/2.0/relief.xsd http://www.opengis.net/citygml/transportation/2.0 http://schemas.opengis.net/citygml/transportation/2.0/transportation.xsd http://www.opengis.net/citygml/tunnel/2.0 http://schemas.opengis.net/citygml/tunnel/2.0/tunnel.xsd http://www.opengis.net/citygml/vegetation/2.0 http://schemas.opengis.net/citygml/vegetation/2.0/vegetation.xsd http://www.opengis.net/citygml/waterbody/2.0 http://schemas.opengis.net/citygml/waterbody/2.0/waterBody.xsd http://www.opengis.net/citygml/texturedsurface/2.0 http://schemas.opengis.net/citygml/texturedsurface/2.0/texturedSurface.xsd http://www.citygml.org/ade/noise_de/2.0 http://schemas.opengis.net/citygml/examples/2.0/ade/noise-ade/CityGML-NoiseADE.xsd ">
+<gml:boundedBy>
+     <gml:Envelope srsName="EPSG:32632" srsDimension="3">
+         <gml:lowerCorner>678187.728 5403455.767 414.88</gml:lowerCorner>
+         <gml:upperCorner>678206.688 5403477.992 421.394</gml:upperCorner>
+    </gml:Envelope>
+</gml:boundedBy>
+<core:cityObjectMember>
+<bldg:Building gml:id="4018194">
+<core:creationDate>2019-09-25</core:creationDate>
+<bldg:measuredHeight uom="m">6.514</bldg:measuredHeight>
+<bldg:outerBuildingInstallation>
+<bldg:BuildingInstallation gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU">
+<gen:stringAttribute name="@cityeditor:layer"><gen:value>Unclassified.LoD3</gen:value></gen:stringAttribute>
+<gen:stringAttribute name="materialClass"><gen:value>Metal</gen:value></gen:stringAttribute>
+<gen:stringAttribute name="materialName"><gen:value>Aluminium</gen:value></gen:stringAttribute>
+<gen:doubleAttribute name="materialUncertainty"><gen:value>0.5</gen:value></gen:doubleAttribute>
+<bldg:lod3Geometry>
+<gml:MultiGeometry>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.fecuwEC3fYFCvFoC7gpd">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.lYfIiH44haxxs3QZQYUV">
+<gml:posList srsDimension="3">
+678198.073 5403462.68 416.492
+678198.073 5403462.68 416.742
+678197.998 5403462.736 416.742
+678197.998 5403462.736 416.492
+678198.073 5403462.68 416.492
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.eQ0ZH5SpI8SCpJLxK82P">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.O1uIv6eHm3fS2l8fB6SZ">
+<gml:posList srsDimension="3">
+678198.073 5403462.68 416.742
+678198.822 5403462.121 416.742
+678199.353 5403462.832 416.742
+678198.604 5403463.391 416.742
+678198.073 5403462.68 416.742
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.YZZnKV0VSgqaPJr2Kd76">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.mwg8NTxWQoQyIL2vdOsk">
+<gml:posList srsDimension="3">
+678198.822 5403462.121 416.742
+678198.822 5403462.121 416.492
+678198.897 5403462.065 416.492
+678198.897 5403462.065 416.742
+678198.822 5403462.121 416.742
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.SChbFXdslHm3eG3e5vO2">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.k8OLV7jg64taMtAUR3LQ">
+<gml:posList srsDimension="3">
+678198.604 5403463.391 416.742
+678198.073 5403462.68 416.742
+678198.073 5403462.68 416.492
+678198.569 5403463.344 416.492
+678200.363 5403465.748 414.992
+678200.578 5403466.036 414.992
+678200.578 5403466.036 415.217
+678200.219 5403465.555 415.217
+678200.219 5403465.555 415.242
+678200.399 5403465.795 415.242
+678200.219 5403465.555 415.392
+678200.04 5403465.315 415.542
+678199.86 5403465.074 415.692
+678199.681 5403464.834 415.842
+678199.501 5403464.593 415.992
+678199.322 5403464.353 416.142
+678199.143 5403464.113 416.292
+678198.963 5403463.872 416.442
+678198.784 5403463.632 416.592
+678198.604 5403463.391 416.742
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.fAEJSQusF0kbA77ZwVm8">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.dEmjDdQLw9oU535MUvvs">
+<gml:posList srsDimension="3">
+678198.897 5403462.065 416.742
+678198.897 5403462.065 417.6
+678197.998 5403462.736 417.6
+678197.998 5403462.736 416.742
+678198.073 5403462.68 416.742
+678198.822 5403462.121 416.742
+678198.897 5403462.065 416.742
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.fOWocFYMKYDLBoPbo1QV">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.8UDdcQZ1GDwAtAK7EYuu">
+<gml:posList srsDimension="3">
+678199.428 5403462.776 417.558
+678199.428 5403462.776 417.6
+678198.897 5403462.065 417.6
+678198.897 5403462.065 416.742
+678199.428 5403462.776 416.742
+678199.428 5403462.776 417.558
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.cJqJcJSbLkY30w45yURK">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.r7FIxIPxfAR4J2u833Nf">
+<gml:posList srsDimension="3">
+678198.604 5403463.391 416.742
+678198.529 5403463.447 416.742
+678197.998 5403462.736 416.742
+678198.073 5403462.68 416.742
+678198.604 5403463.391 416.742
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.Io7L1kQXxnpfFCzljIl4">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.yK6OXvw6cNZw2DP2X2s2">
+<gml:posList srsDimension="3">
+678198.822 5403462.121 416.742
+678199.353 5403462.832 416.742
+678199.533 5403463.073 416.592
+678199.712 5403463.313 416.442
+678199.892 5403463.553 416.292
+678200.071 5403463.794 416.142
+678200.251 5403464.034 415.992
+678200.43 5403464.275 415.842
+678200.609 5403464.515 415.692
+678200.789 5403464.756 415.542
+678200.968 5403464.996 415.392
+678201.148 5403465.236 415.242
+678200.968 5403464.996 415.242
+678200.968 5403464.996 415.217
+678201.327 5403465.477 415.217
+678201.327 5403465.477 414.992
+678201.112 5403465.189 414.992
+678199.318 5403462.785 416.492
+678198.822 5403462.121 416.492
+678198.822 5403462.121 416.742
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.VNlAGpprVP1xSpTsjikl">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.IxLkIbEUl7Om6K4RHSh1">
+<gml:posList srsDimension="3">
+678201.223 5403465.18 415.242
+678201.148 5403465.236 415.242
+678200.968 5403464.996 415.392
+678200.789 5403464.756 415.542
+678200.609 5403464.515 415.692
+678200.43 5403464.275 415.842
+678200.251 5403464.034 415.992
+678200.071 5403463.794 416.142
+678199.892 5403463.553 416.292
+678199.712 5403463.313 416.442
+678199.533 5403463.073 416.592
+678199.353 5403462.832 416.742
+678199.428 5403462.776 416.742
+678200.227 5403463.846 416.075
+678200.246 5403463.871 416.059
+678200.935 5403464.796 415.482
+678200.953 5403464.819 415.468
+678201.223 5403465.18 415.242
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.m8lJgCalwO62yImGBO5S">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.TNwsa0HA5zfKSZPjdVhs">
+<gml:posList srsDimension="3">
+678199.318 5403462.785 416.492
+678199.393 5403462.729 416.492
+678198.897 5403462.065 416.492
+678198.822 5403462.121 416.492
+678199.318 5403462.785 416.492
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.wuUZU1HPKQab3oudo9ac">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.wHuQKkAR6ePXkSRIGbl0">
+<gml:posList srsDimension="3">
+678199.428 5403462.776 416.742
+678198.897 5403462.065 416.742
+678198.897 5403462.065 416.492
+678199.393 5403462.729 416.492
+678201.187 5403465.133 414.992
+678201.402 5403465.421 414.992
+678201.402 5403465.421 415.242
+678201.223 5403465.18 415.242
+678200.953 5403464.819 415.468
+678200.935 5403464.796 415.482
+678200.246 5403463.871 416.059
+678200.227 5403463.846 416.075
+678199.428 5403462.776 416.742
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.2Mv1oggNEubHvongWthp">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.XMHsleRHa1GrcvhPIdDq">
+<gml:posList srsDimension="3">
+678201.327 5403465.477 415.242
+678201.402 5403465.421 415.242
+678201.402 5403465.421 414.992
+678201.327 5403465.477 414.992
+678201.327 5403465.477 415.217
+678201.327 5403465.477 415.242
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.bLu97aoeWshX7Y3UvhfW">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.d4CImXGPDmzbjkPgBdMA">
+<gml:posList srsDimension="3">
+678201.327 5403465.477 414.992
+678201.402 5403465.421 414.992
+678201.187 5403465.133 414.992
+678201.112 5403465.189 414.992
+678201.327 5403465.477 414.992
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.vTWEAjLPRDdKaB1v2rmB">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.RGXonlBSLMC17udTXp2G">
+<gml:posList srsDimension="3">
+678201.402 5403465.421 415.242
+678201.327 5403465.477 415.242
+678201.148 5403465.236 415.242
+678201.223 5403465.18 415.242
+678201.402 5403465.421 415.242
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.UzomtXtwNZNm0wW42F2g">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.f27RNCJS4EYaD7Ku6mJK">
+<gml:posList srsDimension="3">
+678199.428 5403462.776 416.742
+678199.353 5403462.832 416.742
+678198.822 5403462.121 416.742
+678198.897 5403462.065 416.742
+678199.428 5403462.776 416.742
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.HdD9YXamOtqLFu9hdu0b">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.uPidOnit6lS84aRWFYcC">
+<gml:posList srsDimension="3">
+678198.494 5403463.4 416.492
+678198.569 5403463.344 416.492
+678198.073 5403462.68 416.492
+678197.998 5403462.736 416.492
+678198.494 5403463.4 416.492
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.6dpBAzkKB8UG1zILHQSE">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.jST1eRV2QDUwPzlkILD0">
+<gml:posList srsDimension="3">
+678200.578 5403466.036 414.992
+678200.503 5403466.092 414.992
+678200.503 5403466.092 415.242
+678200.578 5403466.036 415.242
+678200.578 5403466.036 415.217
+678200.578 5403466.036 414.992
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.HsECFFeQ9BY0ccypGJ3X">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.iOPXeQl1u3lrXIdRf8xQ">
+<gml:posList srsDimension="3">
+678198.494 5403463.4 416.492
+678197.998 5403462.736 416.492
+678197.998 5403462.736 416.742
+678198.529 5403463.447 416.742
+678200.324 5403465.851 415.242
+678200.503 5403466.092 415.242
+678200.503 5403466.092 414.992
+678200.289 5403465.804 414.992
+678198.494 5403463.4 416.492
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.6aIjscbYvMpmp81nUNpc">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.Ws4nYoyPYFfBC2Um2eXt">
+<gml:posList srsDimension="3">
+678200.399 5403465.795 415.242
+678200.324 5403465.851 415.242
+678198.529 5403463.447 416.742
+678198.604 5403463.391 416.742
+678198.784 5403463.632 416.592
+678198.963 5403463.872 416.442
+678199.143 5403464.113 416.292
+678199.322 5403464.353 416.142
+678199.501 5403464.593 415.992
+678199.681 5403464.834 415.842
+678199.86 5403465.074 415.692
+678200.04 5403465.315 415.542
+678200.219 5403465.555 415.392
+678200.399 5403465.795 415.242
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.3dVTbOtFYGAyPzApDsiD">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.5XZeTm6k1KPW9DdKri1r">
+<gml:posList srsDimension="3">
+678200.503 5403466.092 414.992
+678200.578 5403466.036 414.992
+678200.363 5403465.748 414.992
+678200.289 5403465.804 414.992
+678200.503 5403466.092 414.992
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.8iSRmIVX11r7NitcCZXT">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.56S9n9IAwqE75OX9Fh3M">
+<gml:posList srsDimension="3">
+678201.112 5403465.189 414.992
+678201.187 5403465.133 414.992
+678199.393 5403462.729 416.492
+678199.318 5403462.785 416.492
+678201.112 5403465.189 414.992
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.YcJaDsLk12Lm4aBJYbfM">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.WiKm9ZRiXXD7p1T585EY">
+<gml:posList srsDimension="3">
+678200.578 5403466.036 415.242
+678200.503 5403466.092 415.242
+678200.324 5403465.851 415.242
+678200.399 5403465.795 415.242
+678200.578 5403466.036 415.242
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.B70IIj3bovbfm4v63NUN">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.mGMHE2fPC3Zr3McOno0S">
+<gml:posList srsDimension="3">
+678200.289 5403465.804 414.992
+678200.363 5403465.748 414.992
+678198.569 5403463.344 416.492
+678198.494 5403463.4 416.492
+678200.289 5403465.804 414.992
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.ENfTC7FNRcDbgYggu7ln">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.wBvopQeXMokub9GCnA6G">
+<gml:posList srsDimension="3">
+678200.246 5403463.871 416.059
+678200.246 5403463.871 416.875
+678200.246 5403463.871 416.917
+678200.227 5403463.846 416.933
+678200.227 5403463.846 416.891
+678200.227 5403463.846 416.075
+678200.246 5403463.871 416.059
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.1CftvDTe1SU9zc7oIglU">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.GpU8pRIbU14TL8cRNrcI">
+<gml:posList srsDimension="3">
+678200.953 5403464.819 416.325
+678200.935 5403464.796 416.34
+678200.935 5403464.796 416.298
+678200.935 5403464.796 415.482
+678200.953 5403464.819 415.468
+678200.953 5403464.819 416.325
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.OgW9E2sxJ22BQpGslqrq">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.CFXbCj5UunByrSn9HhZF">
+<gml:posList srsDimension="3">
+678200.251 5403464.034 415.967
+678199.501 5403464.593 415.967
+678199.501 5403464.593 415.992
+678200.251 5403464.034 415.992
+678200.251 5403464.034 415.967
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.aiJ1dyKCbA3Lk8MsP13X">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.sMAdz0IcIdUaNBdc5c9e">
+<gml:posList srsDimension="3">
+678200.071 5403463.794 415.967
+678200.251 5403464.034 415.967
+678200.251 5403464.034 415.992
+678200.071 5403463.794 415.992
+678200.071 5403463.794 415.967
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.keOyhfi5F7q9hGiU14E6">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.iOsVcNgXpfbkUmvPkcFq">
+<gml:posList srsDimension="3">
+678199.322 5403464.353 415.967
+678200.071 5403463.794 415.967
+678200.071 5403463.794 415.992
+678199.322 5403464.353 415.992
+678199.322 5403464.353 415.967
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.axb2g2JY2LD67bPL7N5z">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.qwKM6MVlVXzPH70jT2nC">
+<gml:posList srsDimension="3">
+678200.071 5403463.794 415.992
+678200.251 5403464.034 415.992
+678199.501 5403464.593 415.992
+678199.322 5403464.353 415.992
+678200.071 5403463.794 415.992
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.Gj4iNYesUbz0ES1ZUJJQ">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.vVhoLzBCK00T3bsK9eEl">
+<gml:posList srsDimension="3">
+678199.501 5403464.593 415.967
+678199.322 5403464.353 415.967
+678199.322 5403464.353 415.992
+678199.501 5403464.593 415.992
+678199.501 5403464.593 415.967
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.6VWZcFM8qajl5PruDBHL">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.sJ0e8jRFJtM8EtZbqG4c">
+<gml:posList srsDimension="3">
+678200.071 5403463.794 415.967
+678199.322 5403464.353 415.967
+678199.501 5403464.593 415.967
+678200.251 5403464.034 415.967
+678200.071 5403463.794 415.967
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.P545IFCjAxTM8m3SRTcc">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.1Hbo4p8VtZjKHnMgYqzI">
+<gml:posList srsDimension="3">
+678199.712 5403463.313 416.267
+678199.892 5403463.553 416.267
+678199.892 5403463.553 416.292
+678199.712 5403463.313 416.292
+678199.712 5403463.313 416.267
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.4gyVh7Lz2mJp5Cp58L6c">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.J2T2vW7ZE7hPApeDQJNl">
+<gml:posList srsDimension="3">
+678199.892 5403463.553 416.267
+678199.143 5403464.113 416.267
+678199.143 5403464.113 416.292
+678199.892 5403463.553 416.292
+678199.892 5403463.553 416.267
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.E3fasshVWycu82tbHhHq">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.9zck4lMyLHjaDr1iC5Rk">
+<gml:posList srsDimension="3">
+678199.712 5403463.313 416.267
+678198.963 5403463.872 416.267
+678199.143 5403464.113 416.267
+678199.892 5403463.553 416.267
+678199.712 5403463.313 416.267
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.PBYab8E0RfUEhQ9pXb0S">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.JHI78VZeAsxqUBVyPyTC">
+<gml:posList srsDimension="3">
+678198.963 5403463.872 416.267
+678199.712 5403463.313 416.267
+678199.712 5403463.313 416.292
+678198.963 5403463.872 416.292
+678198.963 5403463.872 416.267
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.ZjCR590EjIkf5y6LOcZ4">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.vv5AMSYKptNogimRv1dD">
+<gml:posList srsDimension="3">
+678199.143 5403464.113 416.267
+678198.963 5403463.872 416.267
+678198.963 5403463.872 416.292
+678199.143 5403464.113 416.292
+678199.143 5403464.113 416.267
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.99hnOhbPbIjpsTeWDGQN">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.pzS3JbVUVcstFPyeHnV3">
+<gml:posList srsDimension="3">
+678199.712 5403463.313 416.292
+678199.892 5403463.553 416.292
+678199.143 5403464.113 416.292
+678198.963 5403463.872 416.292
+678199.712 5403463.313 416.292
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.AnBPFCuPm3JGMijhI0ma">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.msuhfgiX7KRHmg4Rbvwo">
+<gml:posList srsDimension="3">
+678200.04 5403465.315 415.367
+678200.789 5403464.756 415.367
+678200.789 5403464.756 415.392
+678200.04 5403465.315 415.392
+678200.04 5403465.315 415.367
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.VWODSlNhYEc7OWN2hsQO">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.UsXupMJeQNscy8c4jIqH">
+<gml:posList srsDimension="3">
+678200.789 5403464.756 415.392
+678200.968 5403464.996 415.392
+678200.219 5403465.555 415.392
+678200.04 5403465.315 415.392
+678200.789 5403464.756 415.392
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.MUeJxYLqY3OHmLMcZfME">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.8rIuJgZ6gZbo0WTuZPRN">
+<gml:posList srsDimension="3">
+678200.789 5403464.756 415.367
+678200.04 5403465.315 415.367
+678200.219 5403465.555 415.367
+678200.968 5403464.996 415.367
+678200.789 5403464.756 415.367
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.QrIvby2ispoJcvtGAcWv">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.lDaTcqFTz2avgsEoOPzO">
+<gml:posList srsDimension="3">
+678200.789 5403464.756 415.367
+678200.968 5403464.996 415.367
+678200.968 5403464.996 415.392
+678200.789 5403464.756 415.392
+678200.789 5403464.756 415.367
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.wbze1kswSuKrJQy7BOzn">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.CU0qUCBlKNL9v20A2mXd">
+<gml:posList srsDimension="3">
+678200.968 5403464.996 415.367
+678200.219 5403465.555 415.367
+678200.219 5403465.555 415.392
+678200.968 5403464.996 415.392
+678200.968 5403464.996 415.367
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.kCgWw5nMD5QHShvhKxO4">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.Hfvs1yXSgasydB7yUhaW">
+<gml:posList srsDimension="3">
+678200.219 5403465.555 415.367
+678200.04 5403465.315 415.367
+678200.04 5403465.315 415.392
+678200.219 5403465.555 415.392
+678200.219 5403465.555 415.367
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.CHe2C1NVTK9i7bvXnMv1">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.7H3cjx6s1eM3iiRUQI53">
+<gml:posList srsDimension="3">
+678199.86 5403465.074 415.517
+678200.609 5403464.515 415.517
+678200.609 5403464.515 415.542
+678199.86 5403465.074 415.542
+678199.86 5403465.074 415.517
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.lxFLSQdYfhjC05s4QY7O">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.JrSrJprni7ecs2gu8UZf">
+<gml:posList srsDimension="3">
+678200.609 5403464.515 415.542
+678200.789 5403464.756 415.542
+678200.04 5403465.315 415.542
+678199.86 5403465.074 415.542
+678200.609 5403464.515 415.542
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.xbnN4SxFFrJIqbS2LXDd">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.znVX4gR9l4Cg2mKJp07J">
+<gml:posList srsDimension="3">
+678200.609 5403464.515 415.517
+678199.86 5403465.074 415.517
+678200.04 5403465.315 415.517
+678200.789 5403464.756 415.517
+678200.609 5403464.515 415.517
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.wPAdg4SgOML2IBuTluDn">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.Sagc0rdCerrNqk7nCNN1">
+<gml:posList srsDimension="3">
+678200.789 5403464.756 415.517
+678200.04 5403465.315 415.517
+678200.04 5403465.315 415.542
+678200.789 5403464.756 415.542
+678200.789 5403464.756 415.517
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.eZjr8wfj46JIAvYIQanZ">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.fOKkGiY2suzxR1LtwrTI">
+<gml:posList srsDimension="3">
+678200.04 5403465.315 415.517
+678199.86 5403465.074 415.517
+678199.86 5403465.074 415.542
+678200.04 5403465.315 415.542
+678200.04 5403465.315 415.517
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.iwtCy71YWCfqO323qMdk">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.NprUSI5fdg8iZA6A0Zaa">
+<gml:posList srsDimension="3">
+678200.609 5403464.515 415.517
+678200.789 5403464.756 415.517
+678200.789 5403464.756 415.542
+678200.609 5403464.515 415.542
+678200.609 5403464.515 415.517
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.aIDGNqNsMLkHS6eB0JUT">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.uAEvZiceU24YjPW4cDpS">
+<gml:posList srsDimension="3">
+678200.219 5403465.555 415.217
+678200.968 5403464.996 415.217
+678200.968 5403464.996 415.242
+678200.219 5403465.555 415.242
+678200.219 5403465.555 415.217
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.IaTe0VQk9FQ1zh9UDcm0">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.tYuaauVdx8kQJGTAaiBR">
+<gml:posList srsDimension="3">
+678201.148 5403465.236 415.242
+678201.327 5403465.477 415.242
+678200.578 5403466.036 415.242
+678200.399 5403465.795 415.242
+678200.219 5403465.555 415.242
+678200.968 5403464.996 415.242
+678201.148 5403465.236 415.242
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.QHzNaLMN4lMo2Hr52EaY">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.lPZcU4nITumW9NRdUGSC">
+<gml:posList srsDimension="3">
+678201.327 5403465.477 415.217
+678200.578 5403466.036 415.217
+678200.578 5403466.036 415.242
+678201.327 5403465.477 415.242
+678201.327 5403465.477 415.217
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.7loeTJl84nBuumDn8UCQ">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.ixAnWuJKspSOQaatkdik">
+<gml:posList srsDimension="3">
+678200.968 5403464.996 415.217
+678200.219 5403465.555 415.217
+678200.578 5403466.036 415.217
+678201.327 5403465.477 415.217
+678200.968 5403464.996 415.217
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.OZwDdBBfOSw0nVE599tJ">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.otMGJ3OoYtcLv4FkssF0">
+<gml:posList srsDimension="3">
+678201.327 5403465.477 415.217
+678200.968 5403464.996 415.217
+678200.968 5403464.996 415.242
+678201.148 5403465.236 415.242
+678201.327 5403465.477 415.242
+678201.327 5403465.477 415.217
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.5S3dltQZHonX2gdKK6al">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.1g40LzPJ84UpVvIM5mID">
+<gml:posList srsDimension="3">
+678200.219 5403465.555 415.217
+678200.578 5403466.036 415.217
+678200.578 5403466.036 415.242
+678200.399 5403465.795 415.242
+678200.219 5403465.555 415.242
+678200.219 5403465.555 415.217
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.gJqSNLZnJjr56qvQeLJD">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.pqBrALCQg5pR0SZy7TkJ">
+<gml:posList srsDimension="3">
+678199.353 5403462.832 416.592
+678199.533 5403463.073 416.592
+678198.784 5403463.632 416.592
+678198.604 5403463.391 416.592
+678199.353 5403462.832 416.592
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.m8P2LZtX6KRkwVXDJmFl">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.DOTfX7T70L7Q3EBCx1B4">
+<gml:posList srsDimension="3">
+678198.784 5403463.632 416.567
+678198.604 5403463.391 416.567
+678198.604 5403463.391 416.592
+678198.784 5403463.632 416.592
+678198.784 5403463.632 416.567
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.paDV3HH6H6CCtVSPI0nK">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.lKWlOwehTG4e2ngdQauA">
+<gml:posList srsDimension="3">
+678198.604 5403463.391 416.567
+678199.353 5403462.832 416.567
+678199.353 5403462.832 416.592
+678198.604 5403463.391 416.592
+678198.604 5403463.391 416.567
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.GDiSvzS4ovLLVtOJNd4Y">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.PTKDsVGc47RRxSCnspAB">
+<gml:posList srsDimension="3">
+678199.353 5403462.832 416.567
+678198.604 5403463.391 416.567
+678198.784 5403463.632 416.567
+678199.533 5403463.073 416.567
+678199.353 5403462.832 416.567
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.Neqo8VI3rwrBKqEg8AAY">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.chofUGz9qnnHEzG9B63E">
+<gml:posList srsDimension="3">
+678199.353 5403462.832 416.567
+678199.533 5403463.073 416.567
+678199.533 5403463.073 416.592
+678199.353 5403462.832 416.592
+678199.353 5403462.832 416.567
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.em1vo1WKjBaX7ehrFyV3">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.lVIZT9mZffAKd3HaXYwW">
+<gml:posList srsDimension="3">
+678199.533 5403463.073 416.567
+678198.784 5403463.632 416.567
+678198.784 5403463.632 416.592
+678199.533 5403463.073 416.592
+678199.533 5403463.073 416.567
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.pE3pedBCDhtWHxL2y0V4">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.QXga5kmEUSniqaXBJMdt">
+<gml:posList srsDimension="3">
+678199.533 5403463.073 416.417
+678199.712 5403463.313 416.417
+678199.712 5403463.313 416.442
+678199.533 5403463.073 416.442
+678199.533 5403463.073 416.417
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.BFi92Uz9MNVSjRLg2bRQ">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.d4ZHS0wZz1OpqM6tdzMd">
+<gml:posList srsDimension="3">
+678199.712 5403463.313 416.417
+678198.963 5403463.872 416.417
+678198.963 5403463.872 416.442
+678199.712 5403463.313 416.442
+678199.712 5403463.313 416.417
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.SWPhickgBkeec6nSx23z">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.WdSdy0im2ut076id0gr7">
+<gml:posList srsDimension="3">
+678198.963 5403463.872 416.417
+678198.784 5403463.632 416.417
+678198.784 5403463.632 416.442
+678198.963 5403463.872 416.442
+678198.963 5403463.872 416.417
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.epU55GXG0Mi17chIj1h0">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.oALNRgizldrCdWQr3d6t">
+<gml:posList srsDimension="3">
+678199.533 5403463.073 416.417
+678198.784 5403463.632 416.417
+678198.963 5403463.872 416.417
+678199.712 5403463.313 416.417
+678199.533 5403463.073 416.417
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.yRTrpBdiO94QsSWpQGfV">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.ghA3KTxja3F94rOZgslF">
+<gml:posList srsDimension="3">
+678198.784 5403463.632 416.417
+678199.533 5403463.073 416.417
+678199.533 5403463.073 416.442
+678198.784 5403463.632 416.442
+678198.784 5403463.632 416.417
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.N4gqtYGFNcHc9Z43UsbU">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.bTX8VCI3WcMkam0brHTs">
+<gml:posList srsDimension="3">
+678199.533 5403463.073 416.442
+678199.712 5403463.313 416.442
+678198.963 5403463.872 416.442
+678198.784 5403463.632 416.442
+678199.533 5403463.073 416.442
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.ompmg67ABBHdAnJ7mg8r">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.J3Fp7GAB9GKB4uUA1sYV">
+<gml:posList srsDimension="3">
+678199.322 5403464.353 416.117
+678199.143 5403464.113 416.117
+678199.143 5403464.113 416.142
+678199.322 5403464.353 416.142
+678199.322 5403464.353 416.117
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.X6KO7fsqL8suzDXNIJOO">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.5eQwC7XAQ32xGJnpDJeM">
+<gml:posList srsDimension="3">
+678199.143 5403464.113 416.117
+678199.892 5403463.553 416.117
+678199.892 5403463.553 416.142
+678199.143 5403464.113 416.142
+678199.143 5403464.113 416.117
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.OT8LYXKdIQ0Wmu6c7FAd">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.yavclNz2zNP3gdI8mcKs">
+<gml:posList srsDimension="3">
+678199.892 5403463.553 416.142
+678200.071 5403463.794 416.142
+678199.322 5403464.353 416.142
+678199.143 5403464.113 416.142
+678199.892 5403463.553 416.142
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.JsFURdah7hYa97Xqm7hW">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.EJgipfisTNt4t0vYe9Uf">
+<gml:posList srsDimension="3">
+678199.892 5403463.553 416.117
+678200.071 5403463.794 416.117
+678200.071 5403463.794 416.142
+678199.892 5403463.553 416.142
+678199.892 5403463.553 416.117
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.MHoxEycaK2rRj9z5j1kb">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.ntTSpnsDqpMl1gPqGyNJ">
+<gml:posList srsDimension="3">
+678200.071 5403463.794 416.117
+678199.322 5403464.353 416.117
+678199.322 5403464.353 416.142
+678200.071 5403463.794 416.142
+678200.071 5403463.794 416.117
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.gTosDN5I4ZyfCAJYA7BO">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.u8eSBTmePF0L5nH8lYiP">
+<gml:posList srsDimension="3">
+678199.892 5403463.553 416.117
+678199.143 5403464.113 416.117
+678199.322 5403464.353 416.117
+678200.071 5403463.794 416.117
+678199.892 5403463.553 416.117
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.PXqDfGbPRErPBSiFB3jp">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.W2WS7u7B8JWfErVQwisM">
+<gml:posList srsDimension="3">
+678200.43 5403464.275 415.817
+678199.681 5403464.834 415.817
+678199.681 5403464.834 415.842
+678200.43 5403464.275 415.842
+678200.43 5403464.275 415.817
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.3c0qbqvVdEpslEUvpkdp">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.nsc1XniKJqkIAafkGerz">
+<gml:posList srsDimension="3">
+678200.251 5403464.034 415.817
+678199.501 5403464.593 415.817
+678199.681 5403464.834 415.817
+678200.43 5403464.275 415.817
+678200.251 5403464.034 415.817
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.7rtlirB4WZYM7SiMdEin">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.4UwETimz8G2szoV8w6xR">
+<gml:posList srsDimension="3">
+678199.681 5403464.834 415.817
+678199.501 5403464.593 415.817
+678199.501 5403464.593 415.842
+678199.681 5403464.834 415.842
+678199.681 5403464.834 415.817
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.A4xT78v68fxWEfGOr5Eu">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.0nYeQ7mlklku3Wo6CXYJ">
+<gml:posList srsDimension="3">
+678199.501 5403464.593 415.817
+678200.251 5403464.034 415.817
+678200.251 5403464.034 415.842
+678199.501 5403464.593 415.842
+678199.501 5403464.593 415.817
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.uW5zv8z89HHksLPf4Y3U">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.rJMQ8nMZOb6i1gOSlIht">
+<gml:posList srsDimension="3">
+678200.251 5403464.034 415.842
+678200.43 5403464.275 415.842
+678199.681 5403464.834 415.842
+678199.501 5403464.593 415.842
+678200.251 5403464.034 415.842
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.jMfpciInZVUUXCokPeV1">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.Q2e6n9p71rRLwyymdOxF">
+<gml:posList srsDimension="3">
+678200.251 5403464.034 415.817
+678200.43 5403464.275 415.817
+678200.43 5403464.275 415.842
+678200.251 5403464.034 415.842
+678200.251 5403464.034 415.817
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.UwYfBEVk3HsHzSaHObSQ">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.xIdpiiTtnhMJl6jsr3Mv">
+<gml:posList srsDimension="3">
+678200.43 5403464.275 415.667
+678200.609 5403464.515 415.667
+678200.609 5403464.515 415.692
+678200.43 5403464.275 415.692
+678200.43 5403464.275 415.667
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.GtlfXKWKBTJfOJG4dWtI">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.YuGyvMRkNP40BakN706H">
+<gml:posList srsDimension="3">
+678199.86 5403465.074 415.667
+678199.681 5403464.834 415.667
+678199.681 5403464.834 415.692
+678199.86 5403465.074 415.692
+678199.86 5403465.074 415.667
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.DxpBQRyjPOYFU74wqKjL">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.mRSJO0RFCzX0t2qHZqYg">
+<gml:posList srsDimension="3">
+678200.43 5403464.275 415.692
+678200.609 5403464.515 415.692
+678199.86 5403465.074 415.692
+678199.681 5403464.834 415.692
+678200.43 5403464.275 415.692
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.U436jr1YlXnaBVc7i8Xy">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.aXTonvKJ8qWumts4HUyZ">
+<gml:posList srsDimension="3">
+678199.681 5403464.834 415.667
+678200.43 5403464.275 415.667
+678200.43 5403464.275 415.692
+678199.681 5403464.834 415.692
+678199.681 5403464.834 415.667
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.z1Y089nKwe3JuJnrWD2I">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.YAQT8oDO5LZf7Re0bsML">
+<gml:posList srsDimension="3">
+678200.43 5403464.275 415.667
+678199.681 5403464.834 415.667
+678199.86 5403465.074 415.667
+678200.609 5403464.515 415.667
+678200.43 5403464.275 415.667
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.qavYjLeZIT7XKY1O52tf">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.1YJdX2wrpVbu5XAKiEff">
+<gml:posList srsDimension="3">
+678200.609 5403464.515 415.667
+678199.86 5403465.074 415.667
+678199.86 5403465.074 415.692
+678200.609 5403464.515 415.692
+678200.609 5403464.515 415.667
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.3VbttbRlbOG5GPCi6iBX">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.SOjg1AwUKYvCXZQS8GXt">
+<gml:posList srsDimension="3">
+678199.428 5403462.776 417.6
+678199.428 5403462.776 417.558
+678200.227 5403463.846 416.891
+678200.227 5403463.846 416.933
+678199.428 5403462.776 417.6
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+<gml:geometryMember>
+<gml:Polygon gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_PG.O7eqiBIetl70hWuI4SQZ">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.3HC8i36L8JL0aNPctDeU_LR.WI1mJgfpVR0zRvb8tKDb">
+<gml:posList srsDimension="3">
+678200.935 5403464.796 416.298
+678200.935 5403464.796 416.34
+678200.246 5403463.871 416.917
+678200.246 5403463.871 416.875
+678200.935 5403464.796 416.298
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:geometryMember>
+</gml:MultiGeometry>
+</bldg:lod3Geometry>
+</bldg:BuildingInstallation>
+</bldg:outerBuildingInstallation>
+<bldg:boundedBy>
+<bldg:RoofSurface>
+<gen:stringAttribute name="klumMaterialClass"><gen:value>Ceramic</gen:value></gen:stringAttribute>
+<gen:stringAttribute name="klumMaterialIndex"><gen:value>D201</gen:value></gen:stringAttribute>
+<gen:doubleAttribute name="materialUncertainty"><gen:value>0.3</gen:value></gen:doubleAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018194_PG.UYBANUZxjtTB1aeKhsnN">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_LR.P7URBoN4KQLFGNlaMBba">
+<gml:posList srsDimension="3">
+678206.688 5403474.378 419.467
+678204.303 5403476.185 421.394
+678192.797 5403455.767 419.467
+678206.688 5403474.378 419.467
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:RoofSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:RoofSurface>
+<gen:stringAttribute name="klumMaterialClass"><gen:value>Ceramic</gen:value></gen:stringAttribute>
+<gen:stringAttribute name="klumMaterialIndex"><gen:value>D201</gen:value></gen:stringAttribute>
+<gen:doubleAttribute name="materialUncertainty"><gen:value>0.3</gen:value></gen:doubleAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018194_PG.BiCk7Re5Ps6RWwdtk7kM">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_LR.fKzEdLMN0DSHxypfMh58">
+<gml:posList srsDimension="3">
+678204.303 5403476.185 421.394
+678201.918 5403477.992 419.467
+678190.293 5403457.693 421.394
+678204.303 5403476.185 421.394
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:RoofSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:RoofSurface>
+<gen:stringAttribute name="klumMaterialClass"><gen:value>Ceramic</gen:value></gen:stringAttribute>
+<gen:stringAttribute name="klumMaterialIndex"><gen:value>D201</gen:value></gen:stringAttribute>
+<gen:doubleAttribute name="materialUncertainty"><gen:value>0.3</gen:value></gen:doubleAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018194_PG.U0iyxRtKrWKW0tC3Sm0D">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_LR.xfZxK3FcPHpOhrxojghH">
+<gml:posList srsDimension="3">
+678187.728 5403459.665 419.467
+678190.293 5403457.693 421.394
+678201.918 5403477.992 419.467
+678187.728 5403459.665 419.467
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:RoofSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:RoofSurface>
+<gen:stringAttribute name="klumMaterialClass"><gen:value>Ceramic</gen:value></gen:stringAttribute>
+<gen:stringAttribute name="klumMaterialIndex"><gen:value>D201</gen:value></gen:stringAttribute>
+<gen:doubleAttribute name="materialUncertainty"><gen:value>0.3</gen:value></gen:doubleAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018194_PG.yKhUzopLNpxUoaj09anV">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_LR.Nkdj2mDsvZSJnJ1At4z3">
+<gml:posList srsDimension="3">
+678190.293 5403457.693 421.394
+678192.797 5403455.767 419.467
+678204.303 5403476.185 421.394
+678190.293 5403457.693 421.394
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:RoofSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018194_PG.IEzuYNUaCWRahrlRqAHd">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_LR.11nsg0YwcZPFMl6tySbr">
+<gml:posList srsDimension="3">
+678203.282 5403469.814 417.494
+678203.282 5403469.814 418.711
+678203.191 5403469.882 418.711
+678203.191 5403469.882 417.494
+678203.282 5403469.814 417.494
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018194_PG.5ShKjjN5F1JANtzuUF5C">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_LR.PPnI0hQHxyqeaqRkpZ9l">
+<gml:posList srsDimension="3">
+678202.553 5403468.838 418.711
+678202.553 5403468.838 417.494
+678202.462 5403468.906 417.494
+678202.462 5403468.906 418.711
+678202.553 5403468.838 418.711
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018194_PG.7GXGbQl4erS3bEzKlbLF">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_LR.GOOjLgFPY4y97I7RL7Yk">
+<gml:posList srsDimension="3">
+678204.535 5403476.01 420.292
+678204.535 5403476.01 419.646
+678204.393 5403475.822 419.646
+678204.393 5403475.822 420.292
+678204.535 5403476.01 420.292
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018194_PG.6hG9rJ17TkTiVPQNRbyd">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_LR.Ym8AUgnThtU9u9lttHtI">
+<gml:posList srsDimension="3">
+678203.981 5403476.429 419.646
+678203.981 5403476.429 420.292
+678203.839 5403476.241 420.292
+678203.839 5403476.241 419.646
+678203.981 5403476.429 419.646
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018194_PG.qVOoDalmE3wD0zREgNya">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_LR.sTnKVuLLsryJs7KFBfwG">
+<gml:posList srsDimension="3">
+678205.523 5403472.817 417.494
+678205.523 5403472.817 418.711
+678205.422 5403472.893 418.711
+678205.422 5403472.893 417.494
+678205.523 5403472.817 417.494
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018194_PG.HuPqOy8Bnp5mXAUPiteH">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_LR.bTg8ZPXbo2EGScJwDhm7">
+<gml:posList srsDimension="3">
+678197.998 5403462.736 418.215
+678197.998 5403462.736 417.173
+678197.998 5403462.736 416.742
+678197.935 5403462.783 416.742
+678197.935 5403462.783 418.215
+678197.998 5403462.736 418.215
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018194_PG.luUCAguikSZfIqGEaGiB">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_LR.cMMBUaRoEdZOyUErOr9s">
+<gml:posList srsDimension="3">
+678204.795 5403471.842 418.711
+678204.795 5403471.842 417.494
+678204.694 5403471.917 417.494
+678204.694 5403471.917 418.711
+678204.795 5403471.842 418.711
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018194_PG.SYGb9YOj6SyFM90zYC2f">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_LR.ReTssfaXIgXN01PiWAwp">
+<gml:posList srsDimension="3">
+678200.928 5403466.661 417.494
+678200.928 5403466.661 418.711
+678200.879 5403466.697 418.711
+678200.879 5403466.697 417.494
+678200.928 5403466.661 417.494
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018194_PG.TICbmuS2TinqX6ELQmks">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_LR.clmFeuf8lOUHAm4LDP0S">
+<gml:posList srsDimension="3">
+678198.529 5403463.447 416.742
+678198.529 5403463.447 417.173
+678198.529 5403463.447 418.215
+678198.466 5403463.494 418.215
+678198.466 5403463.494 416.742
+678198.529 5403463.447 416.742
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018194_PG.SKqcKUZmugfaqw1mCdOa">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_LR.C4LhMnQzyPcK5qfDKtYl">
+<gml:posList srsDimension="3">
+678200.2 5403465.685 418.711
+678200.2 5403465.685 417.494
+678200.151 5403465.721 417.494
+678200.151 5403465.721 418.711
+678200.2 5403465.685 418.711
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<gen:stringAttribute name="klumMaterialClass"><gen:value>Brick</gen:value></gen:stringAttribute>
+<gen:stringAttribute name="klumMaterialIndex"><gen:value>B001</gen:value></gen:stringAttribute>
+<gen:doubleAttribute name="materialUncertainty"><gen:value>0.5</gen:value></gen:doubleAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018194_PG.zKqj3GSgOhxA04B8XCwA">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_LR.Zb4PQggu4FfEqF0h3p0V">
+<gml:posList srsDimension="3">
+678201.918 5403477.992 414.88
+678201.918 5403477.992 417.173
+678206.688 5403474.378 417.173
+678206.688 5403474.378 414.88
+678201.918 5403477.992 414.88
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<gen:stringAttribute name="klumMaterialClass"><gen:value>Brick</gen:value></gen:stringAttribute>
+<gen:stringAttribute name="klumMaterialIndex"><gen:value>B001</gen:value></gen:stringAttribute>
+<gen:doubleAttribute name="materialUncertainty"><gen:value>0.5</gen:value></gen:doubleAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018194_PG.6868JnV5VR8dEBSxR2RX">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_LR.tRsb5lYZGz7l0aoQNhCb">
+<gml:posList srsDimension="3">
+678197.998 5403462.736 416.742
+678197.998 5403462.736 417.173
+678192.797 5403455.767 417.173
+678192.797 5403455.767 414.88
+678206.688 5403474.378 414.88
+678206.688 5403474.378 417.173
+678198.529 5403463.447 417.173
+678198.529 5403463.447 416.742
+678197.998 5403462.736 416.742
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<gen:stringAttribute name="klumMaterialClass"><gen:value>Brick</gen:value></gen:stringAttribute>
+<gen:stringAttribute name="klumMaterialIndex"><gen:value>B001</gen:value></gen:stringAttribute>
+<gen:doubleAttribute name="materialUncertainty"><gen:value>0.5</gen:value></gen:doubleAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018194_PG.s7gr28LP07clwBL9PmFc">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_LR.UMC4Bula3ZAgals2D7c0">
+<gml:posList srsDimension="3">
+678187.728 5403459.665 414.88
+678187.728 5403459.665 417.173
+678201.918 5403477.992 417.173
+678201.918 5403477.992 414.88
+678187.728 5403459.665 414.88
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<gen:stringAttribute name="klumMaterialClass"><gen:value>Brick</gen:value></gen:stringAttribute>
+<gen:stringAttribute name="klumMaterialIndex"><gen:value>B001</gen:value></gen:stringAttribute>
+<gen:doubleAttribute name="materialUncertainty"><gen:value>0.5</gen:value></gen:doubleAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018194_PG.LahR51SW18hidz5S1vGE">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_LR.esHoQW3IekNr212qBV8V">
+<gml:posList srsDimension="3">
+678192.797 5403455.767 414.88
+678192.797 5403455.767 417.173
+678187.728 5403459.665 417.173
+678187.728 5403459.665 414.88
+678192.797 5403455.767 414.88
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<gen:stringAttribute name="klumMaterialClass"><gen:value>Plaster</gen:value></gen:stringAttribute>
+<gen:stringAttribute name="klumMaterialIndex"><gen:value>I202</gen:value></gen:stringAttribute>
+<gen:doubleAttribute name="materialUncertainty"><gen:value>0.3</gen:value></gen:doubleAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018194_PG.Q4EJkvokFizGdd2DJo4E">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_LR.H50DoLXjhyIJ39juYJR2">
+<gml:posList srsDimension="3">
+678201.918 5403477.992 419.467
+678201.918 5403477.992 417.173
+678187.728 5403459.665 417.173
+678187.728 5403459.665 419.467
+678201.918 5403477.992 419.467
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<gen:stringAttribute name="klumMaterialClass"><gen:value>Plaster</gen:value></gen:stringAttribute>
+<gen:stringAttribute name="klumMaterialIndex"><gen:value>I202</gen:value></gen:stringAttribute>
+<gen:doubleAttribute name="materialUncertainty"><gen:value>0.3</gen:value></gen:doubleAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018194_PG.n3j9BBHwhAOF9zZm3qLF">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_LR.7QDZKukEMMKeIF6r6qgy">
+<gml:posList srsDimension="3">
+678206.688 5403474.378 419.467
+678206.688 5403474.378 417.173
+678201.918 5403477.992 417.173
+678201.918 5403477.992 419.467
+678204.303 5403476.185 421.394
+678206.688 5403474.378 419.467
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+<gml:interior>
+<gml:LinearRing gml:id="4018194_LR.wCUv3AGEoUFNfUTfqLOF">
+<gml:posList srsDimension="3">
+678204.535 5403476.01 420.292
+678203.981 5403476.429 420.292
+678203.981 5403476.429 419.646
+678204.535 5403476.01 419.646
+678204.535 5403476.01 420.292
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<gen:stringAttribute name="klumMaterialClass"><gen:value>Plaster</gen:value></gen:stringAttribute>
+<gen:stringAttribute name="klumMaterialIndex"><gen:value>I202</gen:value></gen:stringAttribute>
+<gen:doubleAttribute name="materialUncertainty"><gen:value>0.3</gen:value></gen:doubleAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018194_PG.HcmvO9i4yMjYgx3x8oCg">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_LR.geQdlLVjkpz3B6cSfwh4">
+<gml:posList srsDimension="3">
+678192.797 5403455.767 419.467
+678192.797 5403455.767 417.173
+678197.998 5403462.736 417.173
+678197.998 5403462.736 418.215
+678198.529 5403463.447 418.215
+678198.529 5403463.447 417.173
+678206.688 5403474.378 417.173
+678206.688 5403474.378 419.467
+678192.797 5403455.767 419.467
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+<gml:interior>
+<gml:LinearRing gml:id="4018194_LR.a9UcH2ocJrh4hzzBHlap">
+<gml:posList srsDimension="3">
+678202.553 5403468.838 418.711
+678203.282 5403469.814 418.711
+678203.282 5403469.814 417.494
+678202.553 5403468.838 417.494
+678202.553 5403468.838 418.711
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018194_LR.M4NKVe55bHQA4bqjMNcH">
+<gml:posList srsDimension="3">
+678204.795 5403471.842 418.711
+678205.523 5403472.817 418.711
+678205.523 5403472.817 417.494
+678204.795 5403471.842 417.494
+678204.795 5403471.842 418.711
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018194_LR.4gauGNpRft0IAS60deyA">
+<gml:posList srsDimension="3">
+678200.928 5403466.661 418.711
+678200.928 5403466.661 417.494
+678200.2 5403465.685 417.494
+678200.2 5403465.685 418.711
+678200.928 5403466.661 418.711
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<gen:stringAttribute name="klumMaterialClass"><gen:value>Plaster</gen:value></gen:stringAttribute>
+<gen:stringAttribute name="klumMaterialIndex"><gen:value>I202</gen:value></gen:stringAttribute>
+<gen:doubleAttribute name="materialUncertainty"><gen:value>0.3</gen:value></gen:doubleAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018194_PG.7B1yykYPw8J6ceYGSfJk">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_LR.dZDyrxsQo9aew7ejt7ri">
+<gml:posList srsDimension="3">
+678187.728 5403459.665 419.467
+678187.728 5403459.665 417.173
+678192.797 5403455.767 417.173
+678192.797 5403455.767 419.467
+678190.293 5403457.693 421.394
+678187.728 5403459.665 419.467
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018194_BP.ZJB0pPlrP4NyaGikxfzp">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018194_BP.ZJB0pPlrP4NyaGikxfzp_PG.1ZR9CUEqr7hdj03Ido7N">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.ZJB0pPlrP4NyaGikxfzp_LR.tcTmTrj4SXD9FvMJaJNm">
+<gml:posList srsDimension="3">
+678198.466 5403463.494 418.215
+678197.935 5403462.783 418.215
+678197.935 5403462.783 416.742
+678198.466 5403463.494 416.742
+678198.466 5403463.494 418.215
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018194_BP.R7BHyhEvhwxebCbxu2Q7">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018194_BP.R7BHyhEvhwxebCbxu2Q7_PG.Ur2GhXSTxQescZvL0NLL">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.R7BHyhEvhwxebCbxu2Q7_LR.KWXgZlPJSuHpJB2mMDVn">
+<gml:posList srsDimension="3">
+678203.839 5403476.241 420.292
+678204.393 5403475.822 420.292
+678204.393 5403475.822 419.646
+678203.839 5403476.241 419.646
+678203.839 5403476.241 420.292
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018194_BP.rXMQR0WTKsY9fO2QIgzK">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018194_BP.rXMQR0WTKsY9fO2QIgzK_PG.VKCwJoqVuSvC8wIIv3KD">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.rXMQR0WTKsY9fO2QIgzK_LR.nqqX7c3d1nZ2a0Bia5yZ">
+<gml:posList srsDimension="3">
+678203.191 5403469.882 418.711
+678202.462 5403468.906 418.711
+678202.462 5403468.906 417.494
+678203.191 5403469.882 417.494
+678203.191 5403469.882 418.711
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018194_BP.WBH9DqsB93oRoL1rnj6Y">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018194_BP.WBH9DqsB93oRoL1rnj6Y_PG.XUnPb5QGbPOqee81tZl9">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.WBH9DqsB93oRoL1rnj6Y_LR.D7qQpvncqxVQx62t4aM2">
+<gml:posList srsDimension="3">
+678205.422 5403472.893 418.711
+678204.694 5403471.917 418.711
+678204.694 5403471.917 417.494
+678205.422 5403472.893 417.494
+678205.422 5403472.893 418.711
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018194_BP.CZKKfYWjcpMTxrexlEEz">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018194_BP.CZKKfYWjcpMTxrexlEEz_PG.wvuUjblcnwvl3x7heRCt">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_BP.CZKKfYWjcpMTxrexlEEz_LR.7XiA1FnDkcLKpAyTBRrk">
+<gml:posList srsDimension="3">
+678200.879 5403466.697 418.711
+678200.151 5403465.721 418.711
+678200.151 5403465.721 417.494
+678200.879 5403466.697 417.494
+678200.879 5403466.697 418.711
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:GroundSurface>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018194_PG.ddkP2J78T0EnrQFiEpKF">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_LR.yn8jyrrWDonWrDetYH3m">
+<gml:posList srsDimension="3">
+678192.797 5403455.767 414.88
+678187.728 5403459.665 414.88
+678201.918 5403477.992 414.88
+678206.688 5403474.378 414.88
+678192.797 5403455.767 414.88
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:GroundSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:OuterCeilingSurface>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018194_PG.7B6FEW45LOsjLEkXrhPX">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_LR.uToBMe1qcbTmhIOknZ8H">
+<gml:posList srsDimension="3">
+678203.981 5403476.429 420.292
+678204.535 5403476.01 420.292
+678204.393 5403475.822 420.292
+678203.839 5403476.241 420.292
+678203.981 5403476.429 420.292
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:OuterCeilingSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:OuterCeilingSurface>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018194_PG.BS4kQXPDNki9iYcJOjWo">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_LR.kuWKJl9yUqTSoBzF1xfH">
+<gml:posList srsDimension="3">
+678203.282 5403469.814 418.711
+678202.553 5403468.838 418.711
+678202.462 5403468.906 418.711
+678203.191 5403469.882 418.711
+678203.282 5403469.814 418.711
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:OuterCeilingSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:OuterCeilingSurface>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018194_PG.K3HI0rVRWtWPfM8VyOEp">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_LR.sVcGrKLXlXQ5oUf2j89y">
+<gml:posList srsDimension="3">
+678205.523 5403472.817 418.711
+678204.795 5403471.842 418.711
+678204.694 5403471.917 418.711
+678205.422 5403472.893 418.711
+678205.523 5403472.817 418.711
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:OuterCeilingSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:OuterCeilingSurface>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018194_PG.rXjxxLv9RFraI1NndGCC">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_LR.hdaADH5QIG8H2i60Wxvz">
+<gml:posList srsDimension="3">
+678198.529 5403463.447 418.215
+678197.998 5403462.736 418.215
+678197.935 5403462.783 418.215
+678198.466 5403463.494 418.215
+678198.529 5403463.447 418.215
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:OuterCeilingSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:OuterCeilingSurface>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018194_PG.MOoZCdmjxPPnEcwitpYL">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_LR.En4aJowQzB3KLyQZ1L3v">
+<gml:posList srsDimension="3">
+678200.928 5403466.661 418.711
+678200.2 5403465.685 418.711
+678200.151 5403465.721 418.711
+678200.879 5403466.697 418.711
+678200.928 5403466.661 418.711
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:OuterCeilingSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:OuterFloorSurface>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018194_PG.SEgBs60RpwFzcNQMolGa">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_LR.phOulGaL9Jf9EF7tsL8o">
+<gml:posList srsDimension="3">
+678204.535 5403476.01 419.646
+678203.981 5403476.429 419.646
+678203.839 5403476.241 419.646
+678204.393 5403475.822 419.646
+678204.535 5403476.01 419.646
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:OuterFloorSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:OuterFloorSurface>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018194_PG.b1I3u4NYRrewPqO4mgcj">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_LR.8cq0GdH7wcV0mTIAw723">
+<gml:posList srsDimension="3">
+678202.553 5403468.838 417.494
+678203.282 5403469.814 417.494
+678203.191 5403469.882 417.494
+678202.462 5403468.906 417.494
+678202.553 5403468.838 417.494
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:OuterFloorSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:OuterFloorSurface>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018194_PG.ZugQDSwD8Z3TRfAXmDjX">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_LR.uU8ZQMtR6cdYia85DHHt">
+<gml:posList srsDimension="3">
+678200.2 5403465.685 417.494
+678200.928 5403466.661 417.494
+678200.879 5403466.697 417.494
+678200.151 5403465.721 417.494
+678200.2 5403465.685 417.494
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:OuterFloorSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:OuterFloorSurface>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018194_PG.SVvsMtepR8qkM3BeEQOq">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_LR.vEl3GWwg5H8PV8ip46Qq">
+<gml:posList srsDimension="3">
+678197.998 5403462.736 416.742
+678198.529 5403463.447 416.742
+678198.466 5403463.494 416.742
+678197.935 5403462.783 416.742
+678197.998 5403462.736 416.742
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:OuterFloorSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:OuterFloorSurface>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018194_PG.LMoPYSnSSdhzWIrOOtzx">
+<gml:exterior>
+<gml:LinearRing gml:id="4018194_LR.XKq5aNGFCn7W1iksL2s5">
+<gml:posList srsDimension="3">
+678204.795 5403471.842 417.494
+678205.523 5403472.817 417.494
+678205.422 5403472.893 417.494
+678204.694 5403471.917 417.494
+678204.795 5403471.842 417.494
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:OuterFloorSurface>
+</bldg:boundedBy>
+</bldg:Building>
+</core:cityObjectMember>
+<app:appearanceMember>
+<app:Appearance>
+<app:theme>SAVE</app:theme>
+<app:surfaceDataMember>
+<app:ParameterizedTexture>
+<app:imageURI>textures/Brick_Antique.jpg</app:imageURI>
+<app:wrapMode>wrap</app:wrapMode>
+<app:target uri="#4018194_PG.zKqj3GSgOhxA04B8XCwA">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018194_LR.Zb4PQggu4FfEqF0h3p0V">
+0.7695658896746159 2.16152372624811 0.7695658896746159 4.601777057617744 -3.2927835347836076 4.601777057617744 -3.2927835347836076 2.16152372624811 0.7695658896746159 2.16152372624811
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+<app:target uri="#4018194_PG.6868JnV5VR8dEBSxR2RX">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018194_LR.tRsb5lYZGz7l0aoQNhCb">
+14.591793025767775 4.143153347181768 14.591793025767778 4.601777057617715 8.689354980190231 4.60177705761774 8.689354980190231 2.161523726248106 24.45335838957365 2.161523726248106 24.45335838957365 4.60177705761774 15.194562507168804 4.60177705761774 15.194562507168808 4.143153347181768 14.591793025767775 4.143153347181768
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+<app:target uri="#4018194_PG.s7gr28LP07clwBL9PmFc">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018194_LR.UMC4Bula3ZAgals2D7c0">
+-8.734950637523973 2.1615237262481077 -8.734950637523973 4.601777057617742 -24.4682499490382 4.601777057617742 -24.4682499490382 2.1615237262481077 -8.734950637523973 2.1615237262481077
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+<app:target uri="#4018194_PG.LahR51SW18hidz5S1vGE">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018194_LR.esHoQW3IekNr212qBV8V">
+3.3433249576369124 2.161523726248108 3.3433249576369124 4.601777057617742 -0.9967866634911623 4.601777057617742 -0.9967866634911623 2.161523726248108 3.3433249576369124 2.161523726248108
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+</app:ParameterizedTexture>
+</app:surfaceDataMember>
+<app:surfaceDataMember>
+<app:ParameterizedTexture>
+<app:imageURI>textures/Metal_Aluminum_Anodized.jpg</app:imageURI>
+<app:wrapMode>wrap</app:wrapMode>
+<app:target uri="#4018194_BP.3HC8i36L8JL0aNPctDeU_PG.fecuwEC3fYFCvFoC7gpd">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018194_BP.3HC8i36L8JL0aNPctDeU_LR.lYfIiH44haxxs3QZQYUV">
+1.5789838572446554e-15 0.06814425974530569 -0.1822688830562837 0.06814425974530991 -0.18226888305628527 -3.1579677144893486e-15 0.0 0.0 1.5789838572446554e-15 0.06814425974530569
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+<app:target uri="#4018194_BP.3HC8i36L8JL0aNPctDeU_PG.eQ0ZH5SpI8SCpJLxK82P">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018194_BP.3HC8i36L8JL0aNPctDeU_LR.O1uIv6eHm3fS2l8fB6SZ">
+3.988356747522279e-15 0.06814425974530529 1.662022760547964e-14 0.7495868571983865 -0.6474190726159066 0.7495868571984086 -0.647419072615915 0.0681442597453074 3.988356747522279e-15 0.06814425974530529
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+<app:target uri="#4018194_BP.3HC8i36L8JL0aNPctDeU_PG.YZZnKV0VSgqaPJr2Kd76">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018194_BP.3HC8i36L8JL0aNPctDeU_LR.mwg8NTxWQoQyIL2vdOsk">
+-0.1822688830562653 0.749586857198391 1.8947806286935373e-14 0.7495868571983869 1.631616652486093e-14 0.8177311169436978 -0.1822688830562637 0.8177311169436926 -0.1822688830562653 0.749586857198391
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+<app:target uri="#4018194_BP.3HC8i36L8JL0aNPctDeU_PG.SChbFXdslHm3eG3e5vO2">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018194_BP.3HC8i36L8JL0aNPctDeU_LR.k8OLV7jg64taMtAUR3LQ">
+0.6474190726159154 0.18226888305629071 -3.559987814297702e-15 0.18226888305628544 -3.559987814297742e-15 1.8088964156997328e-16 0.6043912260316745 4.917841213303907e-15 2.791617822707083 -1.0936132983376832 3.053368328958864 -1.0936132983376805 3.053368328958864 -0.9295713035870238 2.6159230096237835 -0.9295713035870274 2.6159230096237835 -0.9113444152813989 2.834645669291328 -0.9113444152813979 2.6159230096237835 -0.8019830854476283 2.3972003499562455 -0.6926217556138592 2.178477690288703 -0.5832604257800903 1.9597550306211609 -0.4738990959463215 1.7410323709536122 -0.36453776611255273 1.5223097112860784 -0.2551764362787845 1.3035870516185402 -0.14581510644501594 1.084864391950996 -0.03645377661124687 0.8661417322834535 0.0729075532225222 0.6474190726159154 0.18226888305629071
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+<app:target uri="#4018194_BP.3HC8i36L8JL0aNPctDeU_PG.fAEJSQusF0kbA77ZwVm8">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018194_BP.3HC8i36L8JL0aNPctDeU_LR.dEmjDdQLw9oU535MUvvs">
+-0.1822688830562637 0.8177311169436926 -0.8075240594925445 0.8177311169437089 -0.807524059492544 1.2105542905542397e-14 -0.18226888305628527 -3.157967714489345e-15 -0.1822688830562837 0.06814425974530991 -0.1822688830562653 0.749586857198391 -0.1822688830562637 0.8177311169436926
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+<app:target uri="#4018194_BP.3HC8i36L8JL0aNPctDeU_PG.fOWocFYMKYDLBoPbo1QV">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018194_BP.3HC8i36L8JL0aNPctDeU_LR.8UDdcQZ1GDwAtAK7EYuu">
+0.6474190726159409 0.7771945173520052 0.6474190726159409 0.8075240594925703 7.276898373594126e-15 0.8075240594925703 1.3592833802572024e-14 0.18226888305628947 0.6474190726159472 0.18226888305629682 0.6474190726159409 0.7771945173520052
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+<app:target uri="#4018194_BP.3HC8i36L8JL0aNPctDeU_PG.cJqJcJSbLkY30w45yURK">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018194_BP.3HC8i36L8JL0aNPctDeU_LR.r7FIxIPxfAR4J2u833Nf">
+-0.6474190726159147 0.0681442597453076 -0.6474190726159105 -1.8912539490764797e-16 4.058659328883032e-32 -7.557716728715967e-15 4.210623619319112e-15 0.06814425974530551 -0.6474190726159147 0.0681442597453076
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+<app:target uri="#4018194_BP.3HC8i36L8JL0aNPctDeU_PG.Io7L1kQXxnpfFCzljIl4">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018194_BP.3HC8i36L8JL0aNPctDeU_LR.yK6OXvw6cNZw2DP2X2s2">
+-9.667693020300999e-16 0.18226888305630107 -0.647419072615924 0.18226888305630845 -0.8661417322834621 0.07290755322253992 -1.0848643919510088 -0.03645377661122915 -1.3035870516185448 -0.14581510644499823 -1.5223097112860893 -0.25517643627876674 -1.7410323709536233 -0.36453776611253397 -1.9597550306211697 -0.4738990959463028 -2.1784776902887164 -0.5832604257800716 -2.397200349956259 -0.6926217556138407 -2.6159230096237924 -0.8019830854476094 -2.8346456692913433 -0.9113444152813782 -2.6159230096237924 -0.9113444152813801 -2.6159230096237924 -0.9295713035870087 -3.0533683289588773 -0.9295713035870049 -3.0533683289588813 -1.0936132983376612 -2.7916178227070962 -1.0936132983376632 -0.6043912260316853 2.3691487680931246e-14 -9.667693020299989e-16 1.6849224299537374e-14 -9.667693020300999e-16 0.18226888305630107
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+<app:target uri="#4018194_BP.3HC8i36L8JL0aNPctDeU_PG.VNlAGpprVP1xSpTsjikl">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018194_BP.3HC8i36L8JL0aNPctDeU_LR.IxLkIbEUl7Om6K4RHSh1">
+-2.9429497761611265 0.8177311169437128 -2.9429497761611265 0.7495868571984019 -2.6984104085430323 0.7495868571983981 -2.4538710409249527 0.7495868571983987 -2.209331673306865 0.7495868571984066 -1.9647923056887748 0.749586857198404 -1.720252938070684 0.7495868571983992 -1.475713570452605 0.7495868571983987 -1.2311742028345163 0.7495868571983971 -0.9866348352164346 0.7495868571984008 -0.7420954675983436 0.7495868571984087 -0.49755609998026046 0.749586857198405 -0.497556099980263 0.8177311169437107 -1.585470548106296 0.8177311169437107 -1.6113996067257126 0.8177311169437091 -2.5515194274558355 0.8177311169437097 -2.5756046766253777 0.8177311169437076 -2.9429497761611265 0.8177311169437128
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+<app:target uri="#4018194_BP.3HC8i36L8JL0aNPctDeU_PG.wuUZU1HPKQab3oudo9ac">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018194_BP.3HC8i36L8JL0aNPctDeU_LR.wHuQKkAR6ePXkSRIGbl0">
+0.6474190726159271 0.18226888305630845 -6.561745087857992e-15 0.18226888305630107 1.859502150780352e-15 2.105620082114857e-14 0.6043912260316819 2.7898464202542264e-14 2.791617822707093 -1.0936132983376656 3.0533683289588827 -1.0936132983376632 3.053368328958885 -0.9113444152813786 2.8346456692913424 -0.9113444152813803 2.506082223785995 -0.7470626925287146 2.484539722026749 -0.736291441649089 1.6436709915677568 -0.3158570764196032 1.6204793365015207 -0.3042612488864833 0.6474190726159271 0.18226888305630845
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+<app:target uri="#4018194_BP.3HC8i36L8JL0aNPctDeU_PG.2Mv1oggNEubHvongWthp">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018194_BP.3HC8i36L8JL0aNPctDeU_LR.XMHsleRHa1GrcvhPIdDq">
+-0.9113444152814374 0.7495868571985482 -0.9113444152814411 0.817731116943856 -1.0936132983377258 0.817731116943856 -1.093613298337722 0.7495868571985461 -0.9295713035870659 0.7495868571985445 -0.9113444152814374 0.7495868571985482
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+<app:target uri="#4018194_BP.3HC8i36L8JL0aNPctDeU_PG.vTWEAjLPRDdKaB1v2rmB">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018194_BP.3HC8i36L8JL0aNPctDeU_LR.RGXonlBSLMC17udTXp2G">
+-3.053368328958858 0.8177311169437513 -3.0533683289588556 0.7495868571984435 -2.8346456692913176 0.7495868571984425 -2.8346456692913153 0.8177311169437534 -3.053368328958858 0.8177311169437513
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+<app:target uri="#4018194_BP.3HC8i36L8JL0aNPctDeU_PG.UzomtXtwNZNm0wW42F2g">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018194_BP.3HC8i36L8JL0aNPctDeU_LR.f27RNCJS4EYaD7Ku6mJK">
+-0.6474190726159088 0.8177311169437155 -0.6474190726159067 0.7495868571984098 1.6432428935202117e-14 0.7495868571983877 2.4853676173840347e-14 0.8177311169436892 -0.6474190726159088 0.8177311169437155
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+<app:target uri="#4018194_BP.3HC8i36L8JL0aNPctDeU_PG.6dpBAzkKB8UG1zILHQSE">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018194_BP.3HC8i36L8JL0aNPctDeU_LR.jST1eRV2QDUwPzlkILD0">
+-1.0936132983376856 0.06814425974504616 -1.0936132983376843 -2.5848138638719264e-13 -0.9113444152813994 -2.542707627678735e-13 -0.9113444152814008 0.06814425974505037 -0.9295713035870288 0.06814425974504984 -1.0936132983376856 0.06814425974504616
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+<app:target uri="#4018194_BP.3HC8i36L8JL0aNPctDeU_PG.6aIjscbYvMpmp81nUNpc">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018194_BP.3HC8i36L8JL0aNPctDeU_LR.Ws4nYoyPYFfBC2Um2eXt">
+-2.9429497761611274 0.06814425974531811 -2.9429497761611287 1.2414576603945528e-14 -0.49755609998026185 1.241457660394592e-14 -0.4975560999802663 0.06814425974532022 -0.7420954675983495 0.0681442597453239 -0.9866348352164367 0.06814425974532022 -1.2311742028345256 0.06814425974532075 -1.4757135704526088 0.06814425974531917 -1.7202529380706881 0.0681442597453197 -1.964792305688781 0.06814425974531917 -2.2093316733068677 0.06814425974532495 -2.453871040924955 0.06814425974532022 -2.6984104085430385 0.0681442597453218 -2.9429497761611274 0.06814425974531811
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+<app:target uri="#4018194_BP.3HC8i36L8JL0aNPctDeU_PG.8iSRmIVX11r7NitcCZXT">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018194_BP.3HC8i36L8JL0aNPctDeU_LR.56S9n9IAwqE75OX9Fh3M">
+2.9859776227453647 0.7495868571983987 2.985977622745362 0.8177311169437065 0.5405839465645005 0.8177311169437076 0.5405839465645054 0.7495868571984008 2.9859776227453647 0.7495868571983987
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+<app:target uri="#4018194_BP.3HC8i36L8JL0aNPctDeU_PG.YcJaDsLk12Lm4aBJYbfM">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018194_BP.3HC8i36L8JL0aNPctDeU_LR.WiKm9ZRiXXD7p1T585EY">
+-3.053368328958855 0.06814425974532909 -3.0533683289588636 2.4449623842416752e-14 -2.834645669291321 2.444962384241675e-14 -2.8346456692913193 0.06814425974533014 -3.053368328958855 0.06814425974532909
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+<app:target uri="#4018194_BP.3HC8i36L8JL0aNPctDeU_PG.B70IIj3bovbfm4v63NUN">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018194_BP.3HC8i36L8JL0aNPctDeU_LR.mGMHE2fPC3Zr3McOno0S">
+2.985977622745367 -9.343913708166124e-15 2.985977622745362 0.06814425974529952 0.5405839465645044 0.06814425974530161 0.5405839465645017 -8.291257803335974e-15 2.985977622745367 -9.343913708166124e-15
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+<app:target uri="#4018194_BP.3HC8i36L8JL0aNPctDeU_PG.ENfTC7FNRcDbgYggu7ln">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018194_BP.3HC8i36L8JL0aNPctDeU_LR.wBvopQeXMokub9GCnA6G">
+1.6436709915675092 -0.3158570764196284 1.6436709915675092 0.27906855787607565 1.6436709915675092 0.30939810001664086 1.6204793365012733 0.32099392754976097 1.6204793365012733 0.2906643854091958 1.6204793365012733 -0.3042612488865085 1.6436709915675092 -0.3158570764196284
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+<app:target uri="#4018194_BP.3HC8i36L8JL0aNPctDeU_PG.1CftvDTe1SU9zc7oIglU">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018194_BP.3HC8i36L8JL0aNPctDeU_LR.GpU8pRIbU14TL8cRNrcI">
+2.5060822237860547 -0.12180751609247771 2.4845397220268 -0.1110362652128526 2.484539722026796 -0.14136580735341778 2.4845397220268 -0.7362914416491211 2.5060822237860463 -0.7470626925287467 2.5060822237860547 -0.12180751609247771
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+<app:target uri="#4018194_BP.3HC8i36L8JL0aNPctDeU_PG.OgW9E2sxJ22BQpGslqrq">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018194_BP.3HC8i36L8JL0aNPctDeU_LR.CFXbCj5UunByrSn9HhZF">
+-0.3827646544181983 0.7495868571983894 -0.382764654418183 0.06814425974529346 -0.3645377661125545 0.06814425974529399 -0.36453776611256977 0.7495868571983899 -0.3827646544181983 0.7495868571983894
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+<app:target uri="#4018194_BP.3HC8i36L8JL0aNPctDeU_PG.axb2g2JY2LD67bPL7N5z">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018194_BP.3HC8i36L8JL0aNPctDeU_LR.qwKM6MVlVXzPH70jT2nC">
+-1.5223097112860642 0.7495868571984151 -1.7410323709536022 0.7495868571984162 -1.7410323709536086 0.06814425974532029 -1.5223097112860642 0.06814425974531713 -1.5223097112860642 0.7495868571984151
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+<app:target uri="#4018194_BP.3HC8i36L8JL0aNPctDeU_PG.4gyVh7Lz2mJp5Cp58L6c">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018194_BP.3HC8i36L8JL0aNPctDeU_LR.J2T2vW7ZE7hPApeDQJNl">
+-0.16404199475066256 0.7495868571983917 -0.16404199475064624 0.06814425974529899 -0.1458151064450177 0.06814425974529952 -0.145815106445034 0.7495868571983922 -0.16404199475066256 0.7495868571983917
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+<app:target uri="#4018194_BP.3HC8i36L8JL0aNPctDeU_PG.99hnOhbPbIjpsTeWDGQN">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018194_BP.3HC8i36L8JL0aNPctDeU_LR.pzS3JbVUVcstFPyeHnV3">
+-1.0848643919509895 0.7495868571984099 -1.3035870516185257 0.7495868571984088 -1.3035870516185384 0.06814425974531606 -1.084864391950998 0.06814425974531395 -1.0848643919509895 0.7495868571984099
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+<app:target uri="#4018194_BP.3HC8i36L8JL0aNPctDeU_PG.VWODSlNhYEc7OWN2hsQO">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018194_BP.3HC8i36L8JL0aNPctDeU_LR.UsXupMJeQNscy8c4jIqH">
+-2.3972003499562256 0.7495868571984214 -2.615923009623768 0.7495868571984257 -2.6159230096237764 0.06814425974533295 -2.3972003499562295 0.06814425974532452 -2.3972003499562256 0.7495868571984214
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+<app:target uri="#4018194_BP.3HC8i36L8JL0aNPctDeU_PG.wbze1kswSuKrJQy7BOzn">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018194_BP.3HC8i36L8JL0aNPctDeU_LR.CU0qUCBlKNL9v20A2mXd">
+-0.8202099737532738 0.7495868571983796 -0.8202099737532585 0.06814425974528693 -0.80198308544763 0.06814425974528746 -0.8019830854476453 0.7495868571983801 -0.8202099737532738 0.7495868571983796
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+<app:target uri="#4018194_BP.3HC8i36L8JL0aNPctDeU_PG.lxFLSQdYfhjC05s4QY7O">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018194_BP.3HC8i36L8JL0aNPctDeU_LR.JrSrJprni7ecs2gu8UZf">
+-2.178477690288693 0.7495868571984214 -2.397200349956235 0.7495868571984236 -2.3972003499562393 0.06814425974532873 -2.178477690288693 0.06814425974532452 -2.178477690288693 0.7495868571984214
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+<app:target uri="#4018194_BP.3HC8i36L8JL0aNPctDeU_PG.wPAdg4SgOML2IBuTluDn">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018194_BP.3HC8i36L8JL0aNPctDeU_LR.Sagc0rdCerrNqk7nCNN1">
+-0.710848643919505 0.7495868571983824 -0.7108486439194894 0.06814425974528121 -0.692621755613861 0.06814425974528805 -0.6926217556138764 0.7495868571983829 -0.710848643919505 0.7495868571983824
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+<app:target uri="#4018194_BP.3HC8i36L8JL0aNPctDeU_PG.IaTe0VQk9FQ1zh9UDcm0">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018194_BP.3HC8i36L8JL0aNPctDeU_LR.tYuaauVdx8kQJGTAaiBR">
+-2.834645669291318 0.7495868571984314 -3.0533683289588565 0.7495868571984325 -3.0533683289588565 0.06814425974533027 -2.8346456692913202 0.06814425974533132 -2.615923009623776 0.06814425974532606 -2.6159230096237676 0.7495868571984251 -2.834645669291318 0.7495868571984314
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+<app:target uri="#4018194_BP.3HC8i36L8JL0aNPctDeU_PG.QHzNaLMN4lMo2Hr52EaY">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018194_BP.3HC8i36L8JL0aNPctDeU_LR.lPZcU4nITumW9NRdUGSC">
+-0.9295713035866181 0.7495868571983768 -0.9295713035866028 0.06814425974527781 -0.9113444152809749 0.06814425974527834 -0.9113444152809895 0.7495868571983806 -0.9295713035866181 0.7495868571983768
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+<app:target uri="#4018194_BP.3HC8i36L8JL0aNPctDeU_PG.gJqSNLZnJjr56qvQeLJD">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018194_BP.3HC8i36L8JL0aNPctDeU_LR.pqBrALCQg5pR0SZy7TkJ">
+-0.6474190726159069 0.7495868571984088 -0.866141732283445 0.7495868571984151 -0.8661417322834535 0.06814425974531393 -0.6474190726159111 0.06814425974531182 -0.6474190726159069 0.7495868571984088
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+<app:target uri="#4018194_BP.3HC8i36L8JL0aNPctDeU_PG.em1vo1WKjBaX7ehrFyV3">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018194_BP.3HC8i36L8JL0aNPctDeU_LR.lVIZT9mZffAKd3HaXYwW">
+0.054680664916875586 0.7495868571984056 0.0546806649168919 0.06814425974530652 0.07290755322252043 0.06814425974530705 0.07290755322250411 0.7495868571984082 0.054680664916875586 0.7495868571984056
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+<app:target uri="#4018194_BP.3HC8i36L8JL0aNPctDeU_PG.BFi92Uz9MNVSjRLg2bRQ">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018194_BP.3HC8i36L8JL0aNPctDeU_LR.d4ZHS0wZz1OpqM6tdzMd">
+-0.05468066491689348 0.7495868571983976 -0.05468066491687716 0.06814425974530058 -0.036453776611248635 0.06814425974530111 -0.03645377661126495 0.749586857198398 -0.05468066491689348 0.7495868571983976
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+<app:target uri="#4018194_BP.3HC8i36L8JL0aNPctDeU_PG.N4gqtYGFNcHc9Z43UsbU">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018194_BP.3HC8i36L8JL0aNPctDeU_LR.bTX8VCI3WcMkam0brHTs">
+-0.8661417322834504 0.7495868571984099 -1.0848643919509906 0.7495868571984099 -1.0848643919509948 0.0681442597453129 -0.8661417322834567 0.0681442597453129 -0.8661417322834504 0.7495868571984099
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+<app:target uri="#4018194_BP.3HC8i36L8JL0aNPctDeU_PG.OT8LYXKdIQ0Wmu6c7FAd">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018194_BP.3HC8i36L8JL0aNPctDeU_LR.yavclNz2zNP3gdI8mcKs">
+-1.3035870516185268 0.7495868571984109 -1.522309711286069 0.749586857198413 -1.5223097112860755 0.06814425974531711 -1.303587051618535 0.06814425974531502 -1.3035870516185268 0.7495868571984109
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+<app:target uri="#4018194_BP.3HC8i36L8JL0aNPctDeU_PG.MHoxEycaK2rRj9z5j1kb">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018194_BP.3HC8i36L8JL0aNPctDeU_LR.ntTSpnsDqpMl1gPqGyNJ">
+-0.27340332458443106 0.749586857198391 -0.27340332458441474 0.06814425974529513 -0.2551764362787862 0.06814425974529566 -0.25517643627880254 0.7495868571983916 -0.27340332458443106 0.749586857198391
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+<app:target uri="#4018194_BP.3HC8i36L8JL0aNPctDeU_PG.PXqDfGbPRErPBSiFB3jp">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018194_BP.3HC8i36L8JL0aNPctDeU_LR.W2WS7u7B8JWfErVQwisM">
+-0.49212598425196713 0.7495868571983919 -0.49212598425195186 0.06814425974529074 -0.4738990959463233 0.06814425974529127 -0.47389909594633856 0.7495868571983924 -0.49212598425196713 0.7495868571983919
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+<app:target uri="#4018194_BP.3HC8i36L8JL0aNPctDeU_PG.uW5zv8z89HHksLPf4Y3U">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018194_BP.3HC8i36L8JL0aNPctDeU_LR.rJMQ8nMZOb6i1gOSlIht">
+-1.7410323709536035 0.7495868571984141 -1.959755030621148 0.7495868571984236 -1.9597550306211564 0.0681442597453224 -1.741032370953614 0.06814425974532029 -1.7410323709536035 0.7495868571984141
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+<app:target uri="#4018194_BP.3HC8i36L8JL0aNPctDeU_PG.DxpBQRyjPOYFU74wqKjL">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018194_BP.3HC8i36L8JL0aNPctDeU_LR.mRSJO0RFCzX0t2qHZqYg">
+-1.959755030621151 0.7495868571984247 -2.1784776902886933 0.7495868571984289 -2.1784776902886978 0.06814425974533082 -1.9597550306211595 0.06814425974532977 -1.959755030621151 0.7495868571984247
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+<app:target uri="#4018194_BP.3HC8i36L8JL0aNPctDeU_PG.qavYjLeZIT7XKY1O52tf">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018194_BP.3HC8i36L8JL0aNPctDeU_LR.1YJdX2wrpVbu5XAKiEff">
+-0.6014873140857359 0.7495868571983925 -0.6014873140857204 0.06814425974529445 -0.5832604257800921 0.06814425974529498 -0.5832604257801074 0.749586857198393 -0.6014873140857359 0.7495868571983925
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+<app:target uri="#4018194_BP.3HC8i36L8JL0aNPctDeU_PG.3VbttbRlbOG5GPCi6iBX">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018194_BP.3HC8i36L8JL0aNPctDeU_LR.SOjg1AwUKYvCXZQS8GXt">
+0.6474190726159322 0.8075240594925963 0.6474190726159322 0.7771945173520312 1.620479336501532 0.29066438540923545 1.620479336501532 0.32099392754980066 0.6474190726159322 0.8075240594925963
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+<app:target uri="#4018194_BP.3HC8i36L8JL0aNPctDeU_PG.O7eqiBIetl70hWuI4SQZ">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018194_BP.3HC8i36L8JL0aNPctDeU_LR.WI1mJgfpVR0zRvb8tKDb">
+2.4845397220267733 -0.14136580735331744 2.4845397220267773 -0.11103626521275226 1.6436709915677856 0.30939810001673435 1.6436709915677856 0.27906855787616913 2.4845397220267733 -0.14136580735331744
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+</app:ParameterizedTexture>
+</app:surfaceDataMember>
+<app:surfaceDataMember>
+<app:ParameterizedTexture>
+<app:imageURI>textures/Roofing_Tile_Spanish.jpg</app:imageURI>
+<app:wrapMode>wrap</app:wrapMode>
+<app:target uri="#4018194_PG.UYBANUZxjtTB1aeKhsnN">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018194_LR.P7URBoN4KQLFGNlaMBba">
+47.27649288650912 -1.1364600771975955 47.30468857300379 4.5471754524941534 16.79941962836783 -1.1364600771975986 47.27649288650912 -1.1364600771975955
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+<app:target uri="#4018194_PG.BiCk7Re5Ps6RWwdtk7kM">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018194_LR.fKzEdLMN0DSHxypfMh58">
+-47.3234214126724 9.884614983382813 -47.3234214126724 4.200875908103808 -16.876896691336736 9.884614983382818 -47.3234214126724 9.884614983382813
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+<app:target uri="#4018194_PG.U0iyxRtKrWKW0tC3Sm0D">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018194_LR.xfZxK3FcPHpOhrxojghH">
+-16.887571232546374 3.33750358358285 -16.901471167031453 9.350238937364445 -47.305283234807305 3.3375035835829028 -16.887571232546374 3.33750358358285
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+<app:target uri="#4018194_PG.yKhUzopLNpxUoaj09anV">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018194_LR.Nkdj2mDsvZSJnJ1At4z3">
+16.876896691336746 4.573942946547747 16.847133763019222 -1.3354009455485851 47.32342141267232 4.5739429465477 16.876896691336746 4.573942946547747
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+</app:ParameterizedTexture>
+</app:surfaceDataMember>
+<app:surfaceDataMember>
+<app:X3DMaterial>
+<app:ambientIntensity>0.2</app:ambientIntensity>
+<app:diffuseColor>1.0 0.9490196078431372 0.8</app:diffuseColor>
+<app:emissiveColor>0.0 0.0 0.0</app:emissiveColor>
+<app:specularColor>1.0 1.0 1.0</app:specularColor>
+<app:shininess>0.2</app:shininess>
+<app:transparency>0.0</app:transparency>
+<app:isSmooth>false</app:isSmooth>
+<app:target>#4018194_PG.Q4EJkvokFizGdd2DJo4E</app:target>
+<app:target>#4018194_PG.n3j9BBHwhAOF9zZm3qLF</app:target>
+<app:target>#4018194_PG.HcmvO9i4yMjYgx3x8oCg</app:target>
+<app:target>#4018194_PG.7B1yykYPw8J6ceYGSfJk</app:target>
+</app:X3DMaterial>
+</app:surfaceDataMember>
+<app:surfaceDataMember>
+<app:X3DMaterial>
+<app:ambientIntensity>0.2</app:ambientIntensity>
+<app:diffuseColor>0.39215686274509803 0.5843137254901961 0.9294117647058824</app:diffuseColor>
+<app:emissiveColor>0.0 0.0 0.0</app:emissiveColor>
+<app:specularColor>1.0 1.0 1.0</app:specularColor>
+<app:shininess>0.2</app:shininess>
+<app:transparency>0.5</app:transparency>
+<app:isSmooth>false</app:isSmooth>
+<app:target>#4018194_BP.ZJB0pPlrP4NyaGikxfzp_PG.1ZR9CUEqr7hdj03Ido7N</app:target>
+<app:target>#4018194_BP.R7BHyhEvhwxebCbxu2Q7_PG.Ur2GhXSTxQescZvL0NLL</app:target>
+<app:target>#4018194_BP.rXMQR0WTKsY9fO2QIgzK_PG.VKCwJoqVuSvC8wIIv3KD</app:target>
+<app:target>#4018194_BP.WBH9DqsB93oRoL1rnj6Y_PG.XUnPb5QGbPOqee81tZl9</app:target>
+<app:target>#4018194_BP.CZKKfYWjcpMTxrexlEEz_PG.wvuUjblcnwvl3x7heRCt</app:target>
+</app:X3DMaterial>
+</app:surfaceDataMember>
+</app:Appearance>
+</app:appearanceMember>
+</core:CityModel>

@@ -1,0 +1,2809 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Exported with 3DIS GmbH (https://www.3dis.de) CityEditor 2.23.0.0 -->
+<!-- Date: 2021-01-08 11:33:10 +0100 ModelName: unnamed ModelPath: C:\Users\Windows\Documents\Geoinformatik HIWI\neue Ordnerstruktur\geändert Konsistenz\4018270\4018270_v4.skp -->
+<core:CityModel xmlns:core="http://www.opengis.net/citygml/2.0" xmlns:app="http://www.opengis.net/citygml/appearance/2.0" xmlns:brid="http://www.opengis.net/citygml/bridge/2.0" xmlns:bldg="http://www.opengis.net/citygml/building/2.0" xmlns:frn="http://www.opengis.net/citygml/cityfurniture/2.0" xmlns:grp="http://www.opengis.net/citygml/cityobjectgroup/2.0" xmlns:gen="http://www.opengis.net/citygml/generics/2.0" xmlns:luse="http://www.opengis.net/citygml/landuse/2.0" xmlns:dem="http://www.opengis.net/citygml/relief/2.0" xmlns:tran="http://www.opengis.net/citygml/transportation/2.0" xmlns:tun="http://www.opengis.net/citygml/tunnel/2.0" xmlns:veg="http://www.opengis.net/citygml/vegetation/2.0" xmlns:wtr="http://www.opengis.net/citygml/waterbody/2.0" xmlns:tex="http://www.opengis.net/citygml/texturedsurface/2.0" xmlns:gml="http://www.opengis.net/gml" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" xmlns:smil20lang="http://www.w3.org/2001/SMIL20/Language" xmlns:smil20="http://www.w3.org/2001/SMIL20/" xmlns:wfs="http://www.opengis.net/wfs" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:noise="http://www.citygml.org/ade/noise_de/2.0" xsi:schemaLocation="http://www.opengis.net/citygml/2.0 http://schemas.opengis.net/citygml/2.0/cityGMLBase.xsd http://www.opengis.net/citygml/appearance/2.0 http://schemas.opengis.net/citygml/appearance/2.0/appearance.xsd http://www.opengis.net/citygml/bridge/2.0 http://schemas.opengis.net/citygml/bridge/2.0/bridge.xsd http://www.opengis.net/citygml/building/2.0 http://schemas.opengis.net/citygml/building/2.0/building.xsd http://www.opengis.net/citygml/cityfurniture/2.0 http://schemas.opengis.net/citygml/cityfurniture/2.0/cityFurniture.xsd http://www.opengis.net/citygml/cityobjectgroup/2.0 http://schemas.opengis.net/citygml/cityobjectgroup/2.0/cityObjectGroup.xsd http://www.opengis.net/citygml/generics/2.0 http://schemas.opengis.net/citygml/generics/2.0/generics.xsd http://www.opengis.net/citygml/landuse/2.0 http://schemas.opengis.net/citygml/landuse/2.0/landUse.xsd http://www.opengis.net/citygml/relief/2.0 http://schemas.opengis.net/citygml/relief/2.0/relief.xsd http://www.opengis.net/citygml/transportation/2.0 http://schemas.opengis.net/citygml/transportation/2.0/transportation.xsd http://www.opengis.net/citygml/tunnel/2.0 http://schemas.opengis.net/citygml/tunnel/2.0/tunnel.xsd http://www.opengis.net/citygml/vegetation/2.0 http://schemas.opengis.net/citygml/vegetation/2.0/vegetation.xsd http://www.opengis.net/citygml/waterbody/2.0 http://schemas.opengis.net/citygml/waterbody/2.0/waterBody.xsd http://www.opengis.net/citygml/texturedsurface/2.0 http://schemas.opengis.net/citygml/texturedsurface/2.0/texturedSurface.xsd http://www.citygml.org/ade/noise_de/2.0 http://schemas.opengis.net/citygml/examples/2.0/ade/noise-ade/CityGML-NoiseADE.xsd ">
+<gml:boundedBy>
+     <gml:Envelope srsName="EPSG:32632" srsDimension="3">
+         <gml:lowerCorner>678044.779 5403652.484 414.26</gml:lowerCorner>
+         <gml:upperCorner>678109.989 5403688.178 422.92</gml:upperCorner>
+    </gml:Envelope>
+</gml:boundedBy>
+<core:cityObjectMember>
+<bldg:Building gml:id="4018270">
+<core:creationDate>2019-09-25</core:creationDate>
+<bldg:measuredHeight uom="m">8.66</bldg:measuredHeight>
+<bldg:boundedBy>
+<bldg:RoofSurface>
+<gen:doubleAttribute name="materialUncertainty"><gen:value>1</gen:value></gen:doubleAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_PG.MH8mk7o5LQdfUAG7vU5k">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_LR.V55uYAcz97ehNvYgWyqJ">
+<gml:posList srsDimension="3">
+678107.644 5403652.484 422.92
+678109.039 5403655.259 422.92
+678046.211 5403686.854 422.92
+678044.779 5403684.096 422.92
+678107.644 5403652.484 422.92
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:RoofSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:RoofSurface>
+<gen:doubleAttribute name="materialUncertainty"><gen:value>1</gen:value></gen:doubleAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_PG.vrRBNtQtYax2YstlM0fC">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_LR.BT1dCvK6AFXUDAUAULS3">
+<gml:posList srsDimension="3">
+678046.898 5403688.178 421.104
+678046.211 5403686.854 421.104
+678109.039 5403655.259 421.104
+678109.989 5403657.148 421.104
+678046.898 5403688.178 421.104
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:RoofSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<gen:stringAttribute name="klumMaterialClass"><gen:value>Concrete</gen:value></gen:stringAttribute>
+<gen:stringAttribute name="klumMaterialIndex"><gen:value>E203</gen:value></gen:stringAttribute>
+<gen:doubleAttribute name="materialUncertainty"><gen:value>0.5</gen:value></gen:doubleAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_PG.rUph0goaXtWqwMwGQX80">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_LR.jv9fTmNRwuBDWha52Gl0">
+<gml:posList srsDimension="3">
+678109.039 5403655.259 421.104
+678046.211 5403686.854 421.104
+678046.211 5403686.854 422.92
+678109.039 5403655.259 422.92
+678109.039 5403655.259 421.104
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<gen:stringAttribute name="klumMaterialClass"><gen:value>Concrete</gen:value></gen:stringAttribute>
+<gen:stringAttribute name="klumMaterialIndex"><gen:value>E203</gen:value></gen:stringAttribute>
+<gen:doubleAttribute name="materialUncertainty"><gen:value>0.5</gen:value></gen:doubleAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_PG.hESo8Td8VldC02EuGrgA">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_LR.ekCch6ysTnd0Isz1Lf0X">
+<gml:posList srsDimension="3">
+678107.644 5403652.484 414.26
+678109.989 5403657.148 414.26
+678109.989 5403657.148 421.104
+678109.039 5403655.259 421.104
+678109.039 5403655.259 422.92
+678107.644 5403652.484 422.92
+678107.644 5403652.484 414.26
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<gen:stringAttribute name="klumMaterialClass"><gen:value>Concrete</gen:value></gen:stringAttribute>
+<gen:stringAttribute name="klumMaterialIndex"><gen:value>E203</gen:value></gen:stringAttribute>
+<gen:doubleAttribute name="materialUncertainty"><gen:value>0.5</gen:value></gen:doubleAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_PG.SzySqumlSKBR1k0bPiYt">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_LR.wosZJool4wUFPs5Gm3a7">
+<gml:posList srsDimension="3">
+678109.989 5403657.148 414.26
+678046.898 5403688.178 414.26
+678046.898 5403688.178 421.104
+678109.989 5403657.148 421.104
+678109.989 5403657.148 414.26
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.IzbMkds4Qjx0to6ucgtn">
+<gml:posList srsDimension="3">
+678070.979 5403676.334 418.366
+678070.979 5403676.334 419.747
+678070.366 5403676.636 419.747
+678070.366 5403676.636 418.366
+678070.979 5403676.334 418.366
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.LGMpk2McVaIk2pm2SHpm">
+<gml:posList srsDimension="3">
+678093.488 5403665.264 415.746
+678093.488 5403665.264 417.127
+678092.875 5403665.566 417.127
+678092.875 5403665.566 415.746
+678093.488 5403665.264 415.746
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.OVjbOTmPObAR7HbWd5Gc">
+<gml:posList srsDimension="3">
+678079.239 5403672.272 415.746
+678079.852 5403671.97 415.746
+678079.852 5403671.97 417.127
+678079.239 5403672.272 417.127
+678079.239 5403672.272 415.746
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.moxZ7rvZkZyXkpKOLZfY">
+<gml:posList srsDimension="3">
+678079.239 5403672.272 418.366
+678079.852 5403671.97 418.366
+678079.852 5403671.97 419.747
+678079.239 5403672.272 419.747
+678079.239 5403672.272 418.366
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.ym8URTVqJudYHi8bd0xS">
+<gml:posList srsDimension="3">
+678108.212 5403658.022 419.747
+678108.212 5403658.022 418.366
+678108.826 5403657.721 418.366
+678108.826 5403657.721 419.747
+678108.212 5403658.022 419.747
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.vWvBzvZVHFKPNnKERbpw">
+<gml:posList srsDimension="3">
+678099.247 5403662.431 419.747
+678099.247 5403662.431 418.366
+678099.861 5403662.13 418.366
+678099.861 5403662.13 419.747
+678099.247 5403662.431 419.747
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.N9nk806k8eWmxP5F08w5">
+<gml:posList srsDimension="3">
+678106.852 5403658.691 419.747
+678106.238 5403658.993 419.747
+678106.238 5403658.993 418.366
+678106.852 5403658.691 418.366
+678106.852 5403658.691 419.747
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.3co1ruGw1Nh8Pm5hbtYy">
+<gml:posList srsDimension="3">
+678093.488 5403665.264 419.747
+678092.875 5403665.566 419.747
+678092.875 5403665.566 418.366
+678093.488 5403665.264 418.366
+678093.488 5403665.264 419.747
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.gVLXceUkkbkmrNDxIQWG">
+<gml:posList srsDimension="3">
+678049.973 5403686.666 415.746
+678050.586 5403686.364 415.746
+678050.586 5403686.364 417.127
+678049.973 5403686.666 417.127
+678049.973 5403686.666 415.746
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.LjQuLAWScLjx3LmtYszq">
+<gml:posList srsDimension="3">
+678049.973 5403686.666 419.747
+678049.973 5403686.666 418.366
+678050.586 5403686.364 418.366
+678050.586 5403686.364 419.747
+678049.973 5403686.666 419.747
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.qiQuP5sV1l0FA2i3GMD4">
+<gml:posList srsDimension="3">
+678103.741 5403660.221 418.366
+678104.355 5403659.919 418.366
+678104.355 5403659.919 419.747
+678103.741 5403660.221 419.747
+678103.741 5403660.221 418.366
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.zduiS4NEDewtvOCkU2cL">
+<gml:posList srsDimension="3">
+678095.463 5403664.293 419.747
+678094.849 5403664.595 419.747
+678094.849 5403664.595 418.366
+678095.463 5403664.293 418.366
+678095.463 5403664.293 419.747
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.j2LhZJmWePuvQTYsdkdB">
+<gml:posList srsDimension="3">
+678076.815 5403673.464 419.747
+678076.815 5403673.464 418.366
+678077.428 5403673.163 418.366
+678077.428 5403673.163 419.747
+678076.815 5403673.464 419.747
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.Nwx79pRDrFUB6EZVaNNh">
+<gml:posList srsDimension="3">
+678047.998 5403687.637 418.366
+678048.612 5403687.335 418.366
+678048.612 5403687.335 419.747
+678047.998 5403687.637 419.747
+678047.998 5403687.637 418.366
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.lQ2gD47KmP2IVpf0Lhps">
+<gml:posList srsDimension="3">
+678075.454 5403674.134 418.366
+678075.454 5403674.134 419.747
+678074.84 5403674.435 419.747
+678074.84 5403674.435 418.366
+678075.454 5403674.134 418.366
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.f4ozPk32rYSLYqJdQZPa">
+<gml:posList srsDimension="3">
+678097.273 5403663.402 418.366
+678097.887 5403663.101 418.366
+678097.887 5403663.101 419.747
+678097.273 5403663.402 419.747
+678097.273 5403663.402 418.366
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.iOmzvkYAV1Pa6m3betHU">
+<gml:posList srsDimension="3">
+678102.381 5403660.89 418.366
+678102.381 5403660.89 419.747
+678101.767 5403661.192 419.747
+678101.767 5403661.192 418.366
+678102.381 5403660.89 418.366
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.ERb0pAVq5SW1GKwQnqLQ">
+<gml:posList srsDimension="3">
+678077.428 5403673.163 417.127
+678076.815 5403673.464 417.127
+678076.815 5403673.464 415.746
+678077.428 5403673.163 415.746
+678077.428 5403673.163 417.127
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.KQOvgaDRGkkxxYI7cBen">
+<gml:posList srsDimension="3">
+678072.34 5403675.665 417.127
+678072.34 5403675.665 415.746
+678072.954 5403675.363 415.746
+678072.954 5403675.363 417.127
+678072.34 5403675.665 417.127
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.NeHzjMHInUslYKdshtHH">
+<gml:posList srsDimension="3">
+678053.035 5403685.16 418.366
+678053.035 5403685.16 419.747
+678052.422 5403685.461 419.747
+678052.422 5403685.461 418.366
+678053.035 5403685.16 418.366
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.3fo5nVNIEKubvrgc7f1k">
+<gml:posList srsDimension="3">
+678066.43 5403678.572 418.366
+678066.43 5403678.572 419.747
+678065.816 5403678.874 419.747
+678065.816 5403678.874 418.366
+678066.43 5403678.572 418.366
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.9QEeo84aKZbiJ9ybbhJK">
+<gml:posList srsDimension="3">
+678068.53 5403677.539 417.127
+678067.916 5403677.841 417.127
+678067.916 5403677.841 415.746
+678068.53 5403677.539 415.746
+678068.53 5403677.539 417.127
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.1jd4WpsetOqCY7v5NIJN">
+<gml:posList srsDimension="3">
+678068.53 5403677.539 418.366
+678068.53 5403677.539 419.747
+678067.916 5403677.841 419.747
+678067.916 5403677.841 418.366
+678068.53 5403677.539 418.366
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.RZQJtFFxXb9Z8bCoZ6vO">
+<gml:posList srsDimension="3">
+678047.998 5403687.637 415.746
+678048.612 5403687.335 415.746
+678048.612 5403687.335 417.127
+678047.998 5403687.637 417.127
+678047.998 5403687.637 415.746
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.mcsimylG4YJAxGNDb2hY">
+<gml:posList srsDimension="3">
+678090.374 5403666.795 419.747
+678090.374 5403666.795 418.366
+678090.988 5403666.494 418.366
+678090.988 5403666.494 419.747
+678090.374 5403666.795 419.747
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.w2sB8cpGTB1BGOBQaO8W">
+<gml:posList srsDimension="3">
+678097.273 5403663.402 417.127
+678097.273 5403663.402 415.746
+678097.887 5403663.101 415.746
+678097.887 5403663.101 417.127
+678097.273 5403663.402 417.127
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.SY6DFbFXzo52aWnqN6vE">
+<gml:posList srsDimension="3">
+678106.238 5403658.993 415.746
+678106.852 5403658.691 415.746
+678106.852 5403658.691 417.127
+678106.238 5403658.993 417.127
+678106.238 5403658.993 415.746
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.KRLUxMdP2PP3U2QTPOSv">
+<gml:posList srsDimension="3">
+678103.741 5403660.221 415.746
+678104.355 5403659.919 415.746
+678104.355 5403659.919 417.127
+678103.741 5403660.221 417.127
+678103.741 5403660.221 415.746
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.CdI8zITsaKBgL0vfSB9T">
+<gml:posList srsDimension="3">
+678099.247 5403662.431 415.746
+678099.861 5403662.13 415.746
+678099.861 5403662.13 417.127
+678099.247 5403662.431 417.127
+678099.247 5403662.431 415.746
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.O7LJO20zmhp3VAfrhjdd">
+<gml:posList srsDimension="3">
+678061.908 5403680.796 419.747
+678061.295 5403681.097 419.747
+678061.295 5403681.097 418.366
+678061.908 5403680.796 418.366
+678061.908 5403680.796 419.747
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.plphqOqlIv33E8BDC9xL">
+<gml:posList srsDimension="3">
+678054.396 5403684.49 415.746
+678055.01 5403684.189 415.746
+678055.01 5403684.189 417.127
+678054.396 5403684.49 417.127
+678054.396 5403684.49 415.746
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.3nJpe9x2xlQasQHopZNJ">
+<gml:posList srsDimension="3">
+678072.954 5403675.363 419.747
+678072.34 5403675.665 419.747
+678072.34 5403675.665 418.366
+678072.954 5403675.363 418.366
+678072.954 5403675.363 419.747
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.QOHnpxwpt1sAbOHMjvle">
+<gml:posList srsDimension="3">
+678070.979 5403676.334 415.746
+678070.979 5403676.334 417.127
+678070.366 5403676.636 417.127
+678070.366 5403676.636 415.746
+678070.979 5403676.334 415.746
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.U3qLtVFNtCWBKxSpIawQ">
+<gml:posList srsDimension="3">
+678061.908 5403680.796 415.746
+678061.908 5403680.796 417.127
+678061.295 5403681.097 417.127
+678061.295 5403681.097 415.746
+678061.908 5403680.796 415.746
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.A6YO9tqNijL91wGCL9rP">
+<gml:posList srsDimension="3">
+678059.484 5403681.988 417.127
+678058.871 5403682.29 417.127
+678058.871 5403682.29 415.746
+678059.484 5403681.988 415.746
+678059.484 5403681.988 417.127
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.HEV3kThY3lmRESOHtUUU">
+<gml:posList srsDimension="3">
+678102.381 5403660.89 417.127
+678101.767 5403661.192 417.127
+678101.767 5403661.192 415.746
+678102.381 5403660.89 415.746
+678102.381 5403660.89 417.127
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.wYC4QNct7fGFKOWgPxo7">
+<gml:posList srsDimension="3">
+678108.212 5403658.022 415.746
+678108.826 5403657.721 415.746
+678108.826 5403657.721 417.127
+678108.212 5403658.022 417.127
+678108.212 5403658.022 415.746
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.cPhdaI7Cv7gzwumpyidO">
+<gml:posList srsDimension="3">
+678059.484 5403681.988 418.366
+678059.484 5403681.988 419.747
+678058.871 5403682.29 419.747
+678058.871 5403682.29 418.366
+678059.484 5403681.988 418.366
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.xExwkF5G9IS1sovcK8ns">
+<gml:posList srsDimension="3">
+678094.849 5403664.595 415.746
+678095.463 5403664.293 415.746
+678095.463 5403664.293 417.127
+678094.849 5403664.595 417.127
+678094.849 5403664.595 415.746
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.EBXuNryeX4ho117Y89xa">
+<gml:posList srsDimension="3">
+678057.51 5403682.959 419.747
+678056.896 5403683.261 419.747
+678056.896 5403683.261 418.366
+678057.51 5403682.959 418.366
+678057.51 5403682.959 419.747
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.GXUVckBwKVdFSMGW4HKI">
+<gml:posList srsDimension="3">
+678063.883 5403679.825 415.746
+678063.883 5403679.825 417.127
+678063.269 5403680.126 417.127
+678063.269 5403680.126 415.746
+678063.883 5403679.825 415.746
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.XqcxI1KTAsBBJ6ayn50G">
+<gml:posList srsDimension="3">
+678090.988 5403666.494 415.746
+678090.988 5403666.494 417.127
+678090.374 5403666.795 417.127
+678090.374 5403666.795 415.746
+678090.988 5403666.494 415.746
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.DnbewMjkkP5YBY5go9re">
+<gml:posList srsDimension="3">
+678055.01 5403684.189 418.366
+678055.01 5403684.189 419.747
+678054.396 5403684.49 419.747
+678054.396 5403684.49 418.366
+678055.01 5403684.189 418.366
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.REyAfax2lBHrFZPSFus3">
+<gml:posList srsDimension="3">
+678089.014 5403667.465 415.746
+678089.014 5403667.465 417.127
+678088.4 5403667.766 417.127
+678088.4 5403667.766 415.746
+678089.014 5403667.465 415.746
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.C9C9UTrNEK3nJoSB9RYv">
+<gml:posList srsDimension="3">
+678052.422 5403685.461 415.746
+678053.035 5403685.16 415.746
+678053.035 5403685.16 417.127
+678052.422 5403685.461 417.127
+678052.422 5403685.461 415.746
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.eTDrTPwuFqc4q57nAVQG">
+<gml:posList srsDimension="3">
+678057.51 5403682.959 417.127
+678056.896 5403683.261 417.127
+678056.896 5403683.261 415.746
+678057.51 5403682.959 415.746
+678057.51 5403682.959 417.127
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.RQEcuwCdqHAjuU9Ovpb5">
+<gml:posList srsDimension="3">
+678086.564 5403668.669 417.127
+678085.951 5403668.971 417.127
+678085.951 5403668.971 415.746
+678086.564 5403668.669 415.746
+678086.564 5403668.669 417.127
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.17bTY5OfRwtgl8361Dcg">
+<gml:posList srsDimension="3">
+678063.269 5403680.126 418.366
+678063.883 5403679.825 418.366
+678063.883 5403679.825 419.747
+678063.269 5403680.126 419.747
+678063.269 5403680.126 418.366
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.xq3R6NiKh3KeXEdQaOby">
+<gml:posList srsDimension="3">
+678084.59 5403669.64 417.127
+678083.977 5403669.942 417.127
+678083.977 5403669.942 415.746
+678084.59 5403669.64 415.746
+678084.59 5403669.64 417.127
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.UB35sL2gMrjFyQWeaJD4">
+<gml:posList srsDimension="3">
+678086.564 5403668.669 418.366
+678086.564 5403668.669 419.747
+678085.951 5403668.971 419.747
+678085.951 5403668.971 418.366
+678086.564 5403668.669 418.366
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.uSZDlxBR3wg3SazJV4Ot">
+<gml:posList srsDimension="3">
+678084.59 5403669.64 419.747
+678083.977 5403669.942 419.747
+678083.977 5403669.942 418.366
+678084.59 5403669.64 418.366
+678084.59 5403669.64 419.747
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.TOPl1dO6x424fqsh4Ku3">
+<gml:posList srsDimension="3">
+678066.43 5403678.572 417.127
+678065.816 5403678.874 417.127
+678065.816 5403678.874 415.746
+678066.43 5403678.572 415.746
+678066.43 5403678.572 417.127
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.VxMZ6ve0d1O6IT7Vi6O7">
+<gml:posList srsDimension="3">
+678089.014 5403667.465 419.747
+678088.4 5403667.766 419.747
+678088.4 5403667.766 418.366
+678089.014 5403667.465 418.366
+678089.014 5403667.465 419.747
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.2eJAmfwmSED2xBoyIXRY">
+<gml:posList srsDimension="3">
+678074.84 5403674.435 415.746
+678075.454 5403674.134 415.746
+678075.454 5403674.134 417.127
+678074.84 5403674.435 417.127
+678074.84 5403674.435 415.746
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<gen:stringAttribute name="klumMaterialClass"><gen:value>Concrete</gen:value></gen:stringAttribute>
+<gen:stringAttribute name="klumMaterialIndex"><gen:value>E203</gen:value></gen:stringAttribute>
+<gen:doubleAttribute name="materialUncertainty"><gen:value>0.5</gen:value></gen:doubleAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_PG.pnvrBYV5pfWCtt1zS8Yq">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_LR.V2x3P5oOkS5xuYuKdx3k">
+<gml:posList srsDimension="3">
+678046.898 5403688.178 414.26
+678044.779 5403684.096 414.26
+678044.779 5403684.096 422.92
+678046.211 5403686.854 422.92
+678046.211 5403686.854 421.104
+678046.898 5403688.178 421.104
+678046.898 5403688.178 414.26
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<gen:stringAttribute name="klumMaterialClass"><gen:value>Concrete</gen:value></gen:stringAttribute>
+<gen:stringAttribute name="klumMaterialIndex"><gen:value>E203</gen:value></gen:stringAttribute>
+<gen:doubleAttribute name="materialUncertainty"><gen:value>0.5</gen:value></gen:doubleAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_PG.BLisknRV2a2s53rJLd3v">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_LR.wXhx2y74C2qYQlupVI5v">
+<gml:posList srsDimension="3">
+678044.779 5403684.096 414.26
+678107.644 5403652.484 414.26
+678107.644 5403652.484 422.92
+678044.779 5403684.096 422.92
+678044.779 5403684.096 414.26
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.sndI6ehFWvTnblc0jP9o">
+<gml:posList srsDimension="3">
+678105.607 5403653.508 418.305
+678105.607 5403653.508 419.908
+678107.162 5403652.726 419.908
+678107.162 5403652.726 418.305
+678105.607 5403653.508 418.305
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing gml:id="4018270_LR.bqxrnb3Sj11pgEXdm8PW">
+<gml:posList srsDimension="3">
+678105.607 5403653.508 416.982
+678106.385 5403653.117 416.982
+678106.385 5403653.117 415.378
+678105.607 5403653.508 415.378
+678105.607 5403653.508 416.982
+</gml:posList>
+</gml:LinearRing>
+</gml:interior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.B0R7t3gF5qfnYxAuJPGX">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.B0R7t3gF5qfnYxAuJPGX_PG.xVZKKCnELJCVCzrRU47y">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.B0R7t3gF5qfnYxAuJPGX_LR.30toYKMiiuQBZQlpfkod">
+<gml:posList srsDimension="3">
+678052.422 5403685.461 415.746
+678052.422 5403685.461 417.127
+678053.035 5403685.16 417.127
+678053.035 5403685.16 415.746
+678052.422 5403685.461 415.746
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.56TnasI4XUvQTfin1PEU">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.56TnasI4XUvQTfin1PEU_PG.w1i6OHmEGR1myaltOjj7">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.56TnasI4XUvQTfin1PEU_LR.COSipzm5zDJ1Tz5y0QTI">
+<gml:posList srsDimension="3">
+678065.816 5403678.874 415.746
+678065.816 5403678.874 417.127
+678066.43 5403678.572 417.127
+678066.43 5403678.572 415.746
+678065.816 5403678.874 415.746
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.fSvU1PM6WaXGPVqHpx1H">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.fSvU1PM6WaXGPVqHpx1H_PG.RqHTRrjFkYMRzTplwf3m">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.fSvU1PM6WaXGPVqHpx1H_LR.ImZ6wRtKp1dsTXZsLcMb">
+<gml:posList srsDimension="3">
+678083.977 5403669.942 415.746
+678083.977 5403669.942 417.127
+678084.59 5403669.64 417.127
+678084.59 5403669.64 415.746
+678083.977 5403669.942 415.746
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.CwXA2YBw2hpdATbs6fs1">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.CwXA2YBw2hpdATbs6fs1_PG.jAw7CrlS2pD5ajaayNTQ">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.CwXA2YBw2hpdATbs6fs1_LR.bJw9PuWYSLag1LGbi8Vu">
+<gml:posList srsDimension="3">
+678085.951 5403668.971 418.366
+678085.951 5403668.971 419.747
+678086.564 5403668.669 419.747
+678086.564 5403668.669 418.366
+678085.951 5403668.971 418.366
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.rTTNosUzF0jCjs1kyN10">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.rTTNosUzF0jCjs1kyN10_PG.3c7bPjZt2KFXm7pCOjbP">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.rTTNosUzF0jCjs1kyN10_LR.0CvCyEa1MBxlarURKmI9">
+<gml:posList srsDimension="3">
+678083.977 5403669.942 418.366
+678083.977 5403669.942 419.747
+678084.59 5403669.64 419.747
+678084.59 5403669.64 418.366
+678083.977 5403669.942 418.366
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.jqTkxnJ1a4BQTXhWc3vk">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.jqTkxnJ1a4BQTXhWc3vk_PG.OqZFID8p6N8UeOz2D6cT">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.jqTkxnJ1a4BQTXhWc3vk_LR.HEL3Su79DnZWTDSWHCIa">
+<gml:posList srsDimension="3">
+678085.951 5403668.971 415.746
+678085.951 5403668.971 417.127
+678086.564 5403668.669 417.127
+678086.564 5403668.669 415.746
+678085.951 5403668.971 415.746
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.WvuQNnSYxo221xZtAMRE">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.WvuQNnSYxo221xZtAMRE_PG.uUpedN0YXoDIkSwE18Qd">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.WvuQNnSYxo221xZtAMRE_LR.jXNX1KBNjutbhpJDzsHD">
+<gml:posList srsDimension="3">
+678054.396 5403684.49 418.366
+678054.396 5403684.49 419.747
+678055.01 5403684.189 419.747
+678055.01 5403684.189 418.366
+678054.396 5403684.49 418.366
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.5WDh3Nrm0cXQOzhwXeJV">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.5WDh3Nrm0cXQOzhwXeJV_PG.VZ9GKPapzg6sJK6aL9Ds">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.5WDh3Nrm0cXQOzhwXeJV_LR.TZSAC5Z6vqwXzC0i9JL6">
+<gml:posList srsDimension="3">
+678067.916 5403677.841 418.366
+678067.916 5403677.841 419.747
+678068.53 5403677.539 419.747
+678068.53 5403677.539 418.366
+678067.916 5403677.841 418.366
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.Ku40swr0VADm6llnYv0V">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.Ku40swr0VADm6llnYv0V_PG.v8AIBD4kXX9pPeU3o0HC">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.Ku40swr0VADm6llnYv0V_LR.FB11JXKJOsqY8RvZF7hF">
+<gml:posList srsDimension="3">
+678065.816 5403678.874 418.366
+678065.816 5403678.874 419.747
+678066.43 5403678.572 419.747
+678066.43 5403678.572 418.366
+678065.816 5403678.874 418.366
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.niBbAWZSMcvwftap3gKE">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.niBbAWZSMcvwftap3gKE_PG.pnUGwRtpelQEAMljbYFX">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.niBbAWZSMcvwftap3gKE_LR.exsjz0I9FaIBtE2OpYZl">
+<gml:posList srsDimension="3">
+678067.916 5403677.841 415.746
+678067.916 5403677.841 417.127
+678068.53 5403677.539 417.127
+678068.53 5403677.539 415.746
+678067.916 5403677.841 415.746
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.H2nkU2uoRlr2r7J3JTac">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.H2nkU2uoRlr2r7J3JTac_PG.8mm72PCljstZZQZ5eOmy">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.H2nkU2uoRlr2r7J3JTac_LR.oxE6stH5LMAMMkFFqY2d">
+<gml:posList srsDimension="3">
+678090.374 5403666.795 418.366
+678090.374 5403666.795 419.747
+678090.988 5403666.494 419.747
+678090.988 5403666.494 418.366
+678090.374 5403666.795 418.366
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.sDwxBdAOQp4nNup1MClu">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.sDwxBdAOQp4nNup1MClu_PG.RMi7wcgMApDzPmNPor7T">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.sDwxBdAOQp4nNup1MClu_LR.ltJX3lZhxNgP04TovQHO">
+<gml:posList srsDimension="3">
+678088.4 5403667.766 415.746
+678088.4 5403667.766 417.127
+678089.014 5403667.465 417.127
+678089.014 5403667.465 415.746
+678088.4 5403667.766 415.746
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.qqN7IOLFZsLDij5xWCaZ">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.qqN7IOLFZsLDij5xWCaZ_PG.nwjylWb22g1MV2bMbuoc">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.qqN7IOLFZsLDij5xWCaZ_LR.NlVA38qgmkqc8oKxvXIQ">
+<gml:posList srsDimension="3">
+678088.4 5403667.766 418.366
+678088.4 5403667.766 419.747
+678089.014 5403667.465 419.747
+678089.014 5403667.465 418.366
+678088.4 5403667.766 418.366
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.xbZ97rD4On4sFuyszSMS">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.xbZ97rD4On4sFuyszSMS_PG.jjGPa3m55kYHenBHUU0o">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.xbZ97rD4On4sFuyszSMS_LR.OOmrjGsPHeFX7ddYqJR1">
+<gml:posList srsDimension="3">
+678090.374 5403666.795 415.746
+678090.374 5403666.795 417.127
+678090.988 5403666.494 417.127
+678090.988 5403666.494 415.746
+678090.374 5403666.795 415.746
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.tD8C4YgxJOa5zQXztIpd">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.tD8C4YgxJOa5zQXztIpd_PG.8FPYcBpWwRt9nlqDQR58">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.tD8C4YgxJOa5zQXztIpd_LR.1UeRrTJnxtZdkHdUZHVO">
+<gml:posList srsDimension="3">
+678056.896 5403683.261 415.746
+678056.896 5403683.261 417.127
+678057.51 5403682.959 417.127
+678057.51 5403682.959 415.746
+678056.896 5403683.261 415.746
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.uDT6RreUANrLLuP73X5h">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.uDT6RreUANrLLuP73X5h_PG.C6a35dUgzZUwvS4LFd5e">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.uDT6RreUANrLLuP73X5h_LR.MAEJ76T1Jpr4q1JxUTVd">
+<gml:posList srsDimension="3">
+678056.896 5403683.261 418.366
+678056.896 5403683.261 419.747
+678057.51 5403682.959 419.747
+678057.51 5403682.959 418.366
+678056.896 5403683.261 418.366
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.DRsbp3s5DgmyWOlSXw3p">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.DRsbp3s5DgmyWOlSXw3p_PG.FJRjIkNMXl8c3HZAkZAf">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.DRsbp3s5DgmyWOlSXw3p_LR.TkjAUoqs8QFCS38m061Y">
+<gml:posList srsDimension="3">
+678063.269 5403680.126 415.746
+678063.269 5403680.126 417.127
+678063.883 5403679.825 417.127
+678063.883 5403679.825 415.746
+678063.269 5403680.126 415.746
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.KQYwlVFJBj22DuyOulAi">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.KQYwlVFJBj22DuyOulAi_PG.tIGL50bnabM23xIbbKm1">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.KQYwlVFJBj22DuyOulAi_LR.E1hFnPL0D61EuCiSHExP">
+<gml:posList srsDimension="3">
+678063.269 5403680.126 418.366
+678063.269 5403680.126 419.747
+678063.883 5403679.825 419.747
+678063.883 5403679.825 418.366
+678063.269 5403680.126 418.366
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.kbSSBEJH1lsXrxAtYrVA">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.kbSSBEJH1lsXrxAtYrVA_PG.Mk8PWXrcj8EcwCtQVuSO">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.kbSSBEJH1lsXrxAtYrVA_LR.ZCkb7axDEi01L8kbmycI">
+<gml:posList srsDimension="3">
+678052.422 5403685.461 418.366
+678052.422 5403685.461 419.747
+678053.035 5403685.16 419.747
+678053.035 5403685.16 418.366
+678052.422 5403685.461 418.366
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.bOaHGknGR58QTJd3m1L4">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.bOaHGknGR58QTJd3m1L4_PG.fcsvLSXsLWagnFVSgXUe">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.bOaHGknGR58QTJd3m1L4_LR.uJfwJ0QpXEiTp0aixxaN">
+<gml:posList srsDimension="3">
+678054.396 5403684.49 415.746
+678054.396 5403684.49 417.127
+678055.01 5403684.189 417.127
+678055.01 5403684.189 415.746
+678054.396 5403684.49 415.746
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.bjoUonwAMcwZlIynzgpG">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.bjoUonwAMcwZlIynzgpG_PG.mFeQKVLZyzYJdFStmd4e">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.bjoUonwAMcwZlIynzgpG_LR.22rgrtpLQcAUI9wpIskL">
+<gml:posList srsDimension="3">
+678061.295 5403681.097 415.746
+678061.295 5403681.097 417.127
+678061.908 5403680.796 417.127
+678061.908 5403680.796 415.746
+678061.295 5403681.097 415.746
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.DJsHlfGDjiwkywkghmCi">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.DJsHlfGDjiwkywkghmCi_PG.N9WRVIEIx4ZrG0U7NFGc">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.DJsHlfGDjiwkywkghmCi_LR.agDXgMnhscC0RokdZMm7">
+<gml:posList srsDimension="3">
+678061.295 5403681.097 418.366
+678061.295 5403681.097 419.747
+678061.908 5403680.796 419.747
+678061.908 5403680.796 418.366
+678061.295 5403681.097 418.366
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.HFp7MPXSFgsoR5utfZ7E">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.HFp7MPXSFgsoR5utfZ7E_PG.wRhCRZmAs0PKQTip4NC9">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.HFp7MPXSFgsoR5utfZ7E_LR.tVVEvRMkvW7nf7vxy7zk">
+<gml:posList srsDimension="3">
+678058.871 5403682.29 418.366
+678058.871 5403682.29 419.747
+678059.484 5403681.988 419.747
+678059.484 5403681.988 418.366
+678058.871 5403682.29 418.366
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.1uJKudLdU4LDEAqDH0gd">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.1uJKudLdU4LDEAqDH0gd_PG.pnHP4bRY1Y7G5nPEioo3">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.1uJKudLdU4LDEAqDH0gd_LR.plrCdDk927GSrY8X2ns9">
+<gml:posList srsDimension="3">
+678058.871 5403682.29 415.746
+678058.871 5403682.29 417.127
+678059.484 5403681.988 417.127
+678059.484 5403681.988 415.746
+678058.871 5403682.29 415.746
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.GfqLypNCIxB2WtCFX7mJ">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.GfqLypNCIxB2WtCFX7mJ_PG.HJGbiHdwmnjcaGqpydWM">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.GfqLypNCIxB2WtCFX7mJ_LR.4N78PN19P7yX3bpNhrfF">
+<gml:posList srsDimension="3">
+678072.34 5403675.665 418.366
+678072.34 5403675.665 419.747
+678072.954 5403675.363 419.747
+678072.954 5403675.363 418.366
+678072.34 5403675.665 418.366
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.EZHwHOExHRBy8gRbDmSE">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.EZHwHOExHRBy8gRbDmSE_PG.AozPzwI8CuTiBiZXhDRq">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.EZHwHOExHRBy8gRbDmSE_LR.i8gKvHhEga2DkIC8TaPH">
+<gml:posList srsDimension="3">
+678070.366 5403676.636 415.746
+678070.366 5403676.636 417.127
+678070.979 5403676.334 417.127
+678070.979 5403676.334 415.746
+678070.366 5403676.636 415.746
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.TDcdhRmgyuF6bd42yAtZ">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.TDcdhRmgyuF6bd42yAtZ_PG.CqFQDZt8C7bT78ZRWqzr">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.TDcdhRmgyuF6bd42yAtZ_LR.YFpqyVlh1ajWtwI7zqu0">
+<gml:posList srsDimension="3">
+678101.767 5403661.192 415.746
+678101.767 5403661.192 417.127
+678102.381 5403660.89 417.127
+678102.381 5403660.89 415.746
+678101.767 5403661.192 415.746
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.TGgJ9wfeaQfi9N0Ejg3Q">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.TGgJ9wfeaQfi9N0Ejg3Q_PG.I1YlyGS31gtwapUxh0fc">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.TGgJ9wfeaQfi9N0Ejg3Q_LR.k5XFhxA2P9H1K4Hnp0hQ">
+<gml:posList srsDimension="3">
+678108.212 5403658.022 415.746
+678108.212 5403658.022 417.127
+678108.826 5403657.721 417.127
+678108.826 5403657.721 415.746
+678108.212 5403658.022 415.746
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.PQBpEeqW0XHt8JbTdl5k">
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.PQBpEeqW0XHt8JbTdl5k_PG.gVXkgXcyoaRmDIQZgaQg">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.PQBpEeqW0XHt8JbTdl5k_LR.vfIytlyI6PRBxiroqcEa">
+<gml:posList srsDimension="3">
+678108.212 5403658.022 415.746
+678108.212 5403658.022 417.127
+678108.826 5403657.721 417.127
+678108.826 5403657.721 415.746
+678108.212 5403658.022 415.746
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.xAICegQRvfcGFt6ALEX3">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.xAICegQRvfcGFt6ALEX3_PG.2SRt0UGc0hQ0HUi7xjGU">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.xAICegQRvfcGFt6ALEX3_LR.ab7YX3SnrZRJD4L2hTfL">
+<gml:posList srsDimension="3">
+678099.247 5403662.431 415.746
+678099.247 5403662.431 417.127
+678099.861 5403662.13 417.127
+678099.861 5403662.13 415.746
+678099.247 5403662.431 415.746
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.JFWJIt0Fp6DgFllchg1O">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.JFWJIt0Fp6DgFllchg1O_PG.ZDmQPcmllHaDuXCTcUPx">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.JFWJIt0Fp6DgFllchg1O_LR.gPZfJxXcWfH9iUrZ2fJ0">
+<gml:posList srsDimension="3">
+678097.273 5403663.402 415.746
+678097.273 5403663.402 417.127
+678097.887 5403663.101 417.127
+678097.887 5403663.101 415.746
+678097.273 5403663.402 415.746
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.dMdNgUzEgbXwK1EZyBiS">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.dMdNgUzEgbXwK1EZyBiS_PG.9E60tu8d3yfJRl3gwOAi">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.dMdNgUzEgbXwK1EZyBiS_LR.snVlzb4OyD2wFAmSutgK">
+<gml:posList srsDimension="3">
+678094.849 5403664.595 415.746
+678094.849 5403664.595 417.127
+678095.463 5403664.293 417.127
+678095.463 5403664.293 415.746
+678094.849 5403664.595 415.746
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.YQx8hSRYkQdRBdltNxZo">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.YQx8hSRYkQdRBdltNxZo_PG.bzFDAhlVTjmkI1f74lPb">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.YQx8hSRYkQdRBdltNxZo_LR.PrNnWsgYyxKMGHE53bcC">
+<gml:posList srsDimension="3">
+678094.849 5403664.595 418.366
+678094.849 5403664.595 419.747
+678095.463 5403664.293 419.747
+678095.463 5403664.293 418.366
+678094.849 5403664.595 418.366
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.Nrv7X1YG5Zl7b0asqCKl">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.Nrv7X1YG5Zl7b0asqCKl_PG.OYjffR2lbcXQEDlCxEKb">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.Nrv7X1YG5Zl7b0asqCKl_LR.OHixuZMxWkzlj32k3Gqc">
+<gml:posList srsDimension="3">
+678097.273 5403663.402 418.366
+678097.273 5403663.402 419.747
+678097.887 5403663.101 419.747
+678097.887 5403663.101 418.366
+678097.273 5403663.402 418.366
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.M7LSGVhqzSwe5qG0okfC">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.M7LSGVhqzSwe5qG0okfC_PG.STQZ8kiLTwpfqCukz7EJ">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.M7LSGVhqzSwe5qG0okfC_LR.XXtgcfW88YBaN176Oqes">
+<gml:posList srsDimension="3">
+678101.767 5403661.192 418.366
+678101.767 5403661.192 419.747
+678102.381 5403660.89 419.747
+678102.381 5403660.89 418.366
+678101.767 5403661.192 418.366
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.SCiRx7FYiqIPzvVDMDS8">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.SCiRx7FYiqIPzvVDMDS8_PG.lPocnnrXG1esuQEymUqY">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.SCiRx7FYiqIPzvVDMDS8_LR.5TJrXXPwJZNmlgCLDxPE">
+<gml:posList srsDimension="3">
+678092.875 5403665.566 415.746
+678092.875 5403665.566 417.127
+678093.488 5403665.264 417.127
+678093.488 5403665.264 415.746
+678092.875 5403665.566 415.746
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.XWdf394C6sYODAG9JZFn">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.XWdf394C6sYODAG9JZFn_PG.1n9oqXTir3qrYwoHUD7P">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.XWdf394C6sYODAG9JZFn_LR.T6lq3GxbZ3iUWkJ7ixFo">
+<gml:posList srsDimension="3">
+678092.875 5403665.566 418.366
+678092.875 5403665.566 419.747
+678093.488 5403665.264 419.747
+678093.488 5403665.264 418.366
+678092.875 5403665.566 418.366
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.5rvr2gGi1gEL5PZkpXZM">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.5rvr2gGi1gEL5PZkpXZM_PG.xk7xz0ByAb7iRtk00TgG">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.5rvr2gGi1gEL5PZkpXZM_LR.h4hyHvXrAs1qCAlzup6k">
+<gml:posList srsDimension="3">
+678099.247 5403662.431 418.366
+678099.247 5403662.431 419.747
+678099.861 5403662.13 419.747
+678099.861 5403662.13 418.366
+678099.247 5403662.431 418.366
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.rFw0N2wrXnE3kbOtms4R">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.rFw0N2wrXnE3kbOtms4R_PG.00C4QkW4UsBF5uKWBxiL">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.rFw0N2wrXnE3kbOtms4R_LR.6Ok9ZEmeFckqwD7yD9hp">
+<gml:posList srsDimension="3">
+678076.815 5403673.464 415.746
+678076.815 5403673.464 417.127
+678077.428 5403673.163 417.127
+678077.428 5403673.163 415.746
+678076.815 5403673.464 415.746
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.QukUPfU6OE8ZHPW1T7ZM">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.QukUPfU6OE8ZHPW1T7ZM_PG.VFo7G4sxbyR8rvs8LkNm">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.QukUPfU6OE8ZHPW1T7ZM_LR.ZV2GjthExdE0r5SpPJez">
+<gml:posList srsDimension="3">
+678079.239 5403672.272 415.746
+678079.239 5403672.272 417.127
+678079.852 5403671.97 417.127
+678079.852 5403671.97 415.746
+678079.239 5403672.272 415.746
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.fjI0eiuuKF5ekryP52kj">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.fjI0eiuuKF5ekryP52kj_PG.UYLK6QaONCd4wEr6Aoxq">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.fjI0eiuuKF5ekryP52kj_LR.BxXo0tsPXQnETNDigcF5">
+<gml:posList srsDimension="3">
+678076.815 5403673.464 418.366
+678076.815 5403673.464 419.747
+678077.428 5403673.163 419.747
+678077.428 5403673.163 418.366
+678076.815 5403673.464 418.366
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.a5eEOKRK6ZQsRhZPpoXs">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.a5eEOKRK6ZQsRhZPpoXs_PG.KneXVDZAjBhn3VW98TvP">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.a5eEOKRK6ZQsRhZPpoXs_LR.PLlpmxok9kBcGcnWFAzN">
+<gml:posList srsDimension="3">
+678079.239 5403672.272 418.366
+678079.239 5403672.272 419.747
+678079.852 5403671.97 419.747
+678079.852 5403671.97 418.366
+678079.239 5403672.272 418.366
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.99RSkBAsAdiBNDNr5Rmx">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.99RSkBAsAdiBNDNr5Rmx_PG.70XWtNnih1qybNlXxSG0">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.99RSkBAsAdiBNDNr5Rmx_LR.MsekFWgvNCiGxl17A1BE">
+<gml:posList srsDimension="3">
+678074.84 5403674.435 415.746
+678074.84 5403674.435 417.127
+678075.454 5403674.134 417.127
+678075.454 5403674.134 415.746
+678074.84 5403674.435 415.746
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.2G0TC33bmznDUur20cpf">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.2G0TC33bmznDUur20cpf_PG.wlJ9JSqLO2mjBQTriPYp">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.2G0TC33bmznDUur20cpf_LR.FTCsSFEkrzDckgTAjQn9">
+<gml:posList srsDimension="3">
+678070.366 5403676.636 418.366
+678070.366 5403676.636 419.747
+678070.979 5403676.334 419.747
+678070.979 5403676.334 418.366
+678070.366 5403676.636 418.366
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.OOndga1IWZCL675vNLAM">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.OOndga1IWZCL675vNLAM_PG.sFExb4B1cZb6xZQ27dlG">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.OOndga1IWZCL675vNLAM_LR.tybM1h3gUH70Z6xpVybL">
+<gml:posList srsDimension="3">
+678072.34 5403675.665 415.746
+678072.34 5403675.665 417.127
+678072.954 5403675.363 417.127
+678072.954 5403675.363 415.746
+678072.34 5403675.665 415.746
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.ene8lZ6JQ1TeZejobnqb">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.ene8lZ6JQ1TeZejobnqb_PG.WFGv956k4yUupgWHd0XZ">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.ene8lZ6JQ1TeZejobnqb_LR.2DYw2uPmWeJYjlf9iiAD">
+<gml:posList srsDimension="3">
+678074.84 5403674.435 418.366
+678074.84 5403674.435 419.747
+678075.454 5403674.134 419.747
+678075.454 5403674.134 418.366
+678074.84 5403674.435 418.366
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.YjRM71ffuOzcSItglgG2">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.YjRM71ffuOzcSItglgG2_PG.W6k6MbWrwMCQufx08Mnr">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.YjRM71ffuOzcSItglgG2_LR.vthyFSZchXbyInCJ8Sa4">
+<gml:posList srsDimension="3">
+678047.998 5403687.637 415.746
+678047.998 5403687.637 417.127
+678048.612 5403687.335 417.127
+678048.612 5403687.335 415.746
+678047.998 5403687.637 415.746
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.zdn00idGQYNm1DyLuIH1">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.zdn00idGQYNm1DyLuIH1_PG.qVQncc0DLWtf5hiv2dRw">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.zdn00idGQYNm1DyLuIH1_LR.clzbSetpefXz8T3JZyYK">
+<gml:posList srsDimension="3">
+678049.973 5403686.666 415.746
+678049.973 5403686.666 417.127
+678050.586 5403686.364 417.127
+678050.586 5403686.364 415.746
+678049.973 5403686.666 415.746
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.t5iwevkcnV2ZJBr6TKPU">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.t5iwevkcnV2ZJBr6TKPU_PG.5KsClXknnZcTJaJsjfUd">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.t5iwevkcnV2ZJBr6TKPU_LR.L2nCIiXZL094OLwZDCSG">
+<gml:posList srsDimension="3">
+678049.973 5403686.666 418.366
+678049.973 5403686.666 419.747
+678050.586 5403686.364 419.747
+678050.586 5403686.364 418.366
+678049.973 5403686.666 418.366
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.wZRA8PLtb3nFGfTDsjml">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.wZRA8PLtb3nFGfTDsjml_PG.vpj8cVY7KmbgKoB4TrXV">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.wZRA8PLtb3nFGfTDsjml_LR.Gffwvtr5DxhWQc6hz1sy">
+<gml:posList srsDimension="3">
+678047.998 5403687.637 418.366
+678047.998 5403687.637 419.747
+678048.612 5403687.335 419.747
+678048.612 5403687.335 418.366
+678047.998 5403687.637 418.366
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.j0CGXZwQWDSnNdh8ftJj">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.j0CGXZwQWDSnNdh8ftJj_PG.QHgdNi0PcUGqxTl02sMJ">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.j0CGXZwQWDSnNdh8ftJj_LR.nF1GeDcQ7KegumPfc1OD">
+<gml:posList srsDimension="3">
+678105.607 5403653.508 416.982
+678105.607 5403653.508 415.378
+678106.385 5403653.117 415.378
+678106.385 5403653.117 416.982
+678105.607 5403653.508 416.982
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.kwia9BhsXp8GNFIbHKVP">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.kwia9BhsXp8GNFIbHKVP_PG.unh1NORl1ZBPhHMhZvWH">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.kwia9BhsXp8GNFIbHKVP_LR.dcfRoqiJC4tFUeBoGe5v">
+<gml:posList srsDimension="3">
+678105.607 5403653.508 419.908
+678105.607 5403653.508 418.305
+678107.162 5403652.726 418.305
+678107.162 5403652.726 419.908
+678105.607 5403653.508 419.908
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.isIX9B6jtobFilrCx4fo">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.isIX9B6jtobFilrCx4fo_PG.BJGIL1t57o3QAtqJfZUQ">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.isIX9B6jtobFilrCx4fo_LR.lB9UVyXRUtEvW6WbPJLM">
+<gml:posList srsDimension="3">
+678108.212 5403658.022 418.366
+678108.212 5403658.022 419.747
+678108.826 5403657.721 419.747
+678108.826 5403657.721 418.366
+678108.212 5403658.022 418.366
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.YluBtyRMu4Nunlgtlqkt">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.YluBtyRMu4Nunlgtlqkt_PG.CRXE6TE7ng1NZpH4Wzpo">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.YluBtyRMu4Nunlgtlqkt_LR.6Kr9i8NF9RHJvnfuxV5P">
+<gml:posList srsDimension="3">
+678103.741 5403660.221 415.746
+678103.741 5403660.221 417.127
+678104.355 5403659.919 417.127
+678104.355 5403659.919 415.746
+678103.741 5403660.221 415.746
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.YzF6opc61RITVZrkuiG3">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.YzF6opc61RITVZrkuiG3_PG.2fMnAZN9RuCK2tO1nx9u">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.YzF6opc61RITVZrkuiG3_LR.roKxoXDAf1aWxXNObq4v">
+<gml:posList srsDimension="3">
+678103.741 5403660.221 418.366
+678103.741 5403660.221 419.747
+678104.355 5403659.919 419.747
+678104.355 5403659.919 418.366
+678103.741 5403660.221 418.366
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.bggUQcX340zf93wWwXEA">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.bggUQcX340zf93wWwXEA_PG.SYwHKG73XpLl8gRCZaT2">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.bggUQcX340zf93wWwXEA_LR.hPonpQgos88ae9EOHzyc">
+<gml:posList srsDimension="3">
+678106.238 5403658.993 418.366
+678106.238 5403658.993 419.747
+678106.852 5403658.691 419.747
+678106.852 5403658.691 418.366
+678106.238 5403658.993 418.366
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:opening>
+<bldg:Window gml:id="4018270_BP.aw1DYWa9wLgEE6OkLxoM">
+<gen:stringAttribute name="paneMaterialClass"><gen:value>Glass</gen:value></gen:stringAttribute>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_BP.aw1DYWa9wLgEE6OkLxoM_PG.9MBlt6HnLZOhGm7qKjsv">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_BP.aw1DYWa9wLgEE6OkLxoM_LR.hnXJDtfBiAay9OkqhYI0">
+<gml:posList srsDimension="3">
+678106.238 5403658.993 415.746
+678106.238 5403658.993 417.127
+678106.852 5403658.691 417.127
+678106.852 5403658.691 415.746
+678106.238 5403658.993 415.746
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:GroundSurface>
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="4018270_PG.tGsvnixL7uN94TIHpXgw">
+<gml:exterior>
+<gml:LinearRing gml:id="4018270_LR.ZRbVFn6Q41kRXrFedPqL">
+<gml:posList srsDimension="3">
+678109.989 5403657.148 414.26
+678107.644 5403652.484 414.26
+678044.779 5403684.096 414.26
+678046.898 5403688.178 414.26
+678109.989 5403657.148 414.26
+</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:GroundSurface>
+</bldg:boundedBy>
+</bldg:Building>
+</core:cityObjectMember>
+<app:appearanceMember>
+<app:Appearance>
+<app:theme>SAVE</app:theme>
+<app:surfaceDataMember>
+<app:ParameterizedTexture>
+<app:imageURI>textures/Concrete_Form_4x8.jpg</app:imageURI>
+<app:wrapMode>wrap</app:wrapMode>
+<app:target uri="#4018270_PG.rUph0goaXtWqwMwGQX80">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018270_LR.jv9fTmNRwuBDWha52Gl0">
+33.84499496518031 2.970021224809695 91.52642937585658 2.970021224809695 91.52642937585658 3.715100012391525 33.84499496518031 3.715100012391525 33.84499496518031 2.970021224809695
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+<app:target uri="#4018270_PG.hESo8Td8VldC02EuGrgA">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018270_LR.ekCch6ysTnd0Isz1Lf0X">
+31.297021320439317 0.16338582660499998 35.57933903752178 0.16338582660499998 35.57933903752178 2.970021224809691 33.84499496518018 2.970021224809691 33.84499496518018 3.7151000123915234 31.297021320439317 3.7151000123915234 31.297021320439317 0.16338582660499998
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+<app:target uri="#4018270_PG.SzySqumlSKBR1k0bPiYt">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018270_LR.wosZJool4wUFPs5Gm3a7">
+-48.43590290437207 0.16338582660499998 9.232044350497135 0.16338582660499998 9.232044350497135 2.970021224809691 -48.43590290437207 2.970021224809691 -48.43590290437207 0.16338582660499998
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.IzbMkds4Qjx0to6ucgtn">
+-12.779370144236571 1.8471455534063606 -12.779370144236571 2.41354158185671 -12.21854373115177 2.41354158185671 -12.21854373115177 1.8471455534063606 -12.779370144236571 1.8471455534063606
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.LGMpk2McVaIk2pm2SHpm">
+-33.35351712586386 0.7726704877895626 -33.35351712586386 1.3390665162399118 -32.79269071277906 1.3390665162399118 -32.79269071277906 0.7726704877895626 -33.35351712586386 0.7726704877895626
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.OVjbOTmPObAR7HbWd5Gc">
+-20.32877995162421 0.7726704877895626 -20.889606364709007 0.7726704877895626 -20.889606364709007 1.3390665162399118 -20.32877995162421 1.3390665162399118 -20.32877995162421 0.7726704877895626
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.moxZ7rvZkZyXkpKOLZfY">
+-20.32877995162421 1.8471455534063606 -20.889606364709007 1.8471455534063606 -20.889606364709007 2.41354158185671 -20.32877995162421 2.41354158185671 -20.32877995162421 1.8471455534063606
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.ym8URTVqJudYHi8bd0xS">
+-46.81171958417015 2.41354158185671 -46.81171958417015 1.8471455534063606 -47.37254599725495 1.8471455534063606 -47.37254599725495 2.41354158185671 -46.81171958417015 2.41354158185671
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.vWvBzvZVHFKPNnKERbpw">
+-38.617493862385366 2.41354158185671 -38.617493862385366 1.8471455534063606 -39.17832027547017 1.8471455534063606 -39.17832027547017 2.41354158185671 -38.617493862385366 2.41354158185671
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.N9nk806k8eWmxP5F08w5">
+-45.568084054997726 2.41354158185671 -45.00725764191292 2.41354158185671 -45.00725764191292 1.8471455534063606 -45.568084054997726 1.8471455534063606 -45.568084054997726 2.41354158185671
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.3co1ruGw1Nh8Pm5hbtYy">
+-33.35351712586386 2.41354158185671 -32.79269071277906 2.41354158185671 -32.79269071277906 1.8471455534063606 -33.35351712586386 1.8471455534063606 -33.35351712586386 2.41354158185671
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.gVLXceUkkbkmrNDxIQWG">
+6.421876216354782 0.7726704877895626 5.86104980326998 0.7726704877895626 5.86104980326998 1.3390665162399118 6.421876216354782 1.3390665162399118 6.421876216354782 0.7726704877895626
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.LjQuLAWScLjx3LmtYszq">
+6.421876216354782 2.41354158185671 6.421876216354782 1.8471455534063606 5.86104980326998 1.8471455534063606 5.86104980326998 2.41354158185671 6.421876216354782 2.41354158185671
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.qiQuP5sV1l0FA2i3GMD4">
+-42.725105410941815 1.8471455534063606 -43.28593182402661 1.8471455534063606 -43.28593182402661 2.41354158185671 -42.725105410941815 2.41354158185671 -42.725105410941815 1.8471455534063606
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.zduiS4NEDewtvOCkU2cL">
+-35.15797906812107 2.41354158185671 -34.59715265503628 2.41354158185671 -34.59715265503628 1.8471455534063606 -35.15797906812107 1.8471455534063606 -35.15797906812107 2.41354158185671
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.j2LhZJmWePuvQTYsdkdB">
+-18.112900686532345 2.41354158185671 -18.112900686532345 1.8471455534063606 -18.673727099617146 1.8471455534063606 -18.673727099617146 2.41354158185671 -18.112900686532345 2.41354158185671
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.Nwx79pRDrFUB6EZVaNNh">
+8.226338158612004 1.8471455534063606 7.665511745527201 1.8471455534063606 7.665511745527201 2.41354158185671 8.226338158612004 2.41354158185671 8.226338158612004 1.8471455534063606
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.lQ2gD47KmP2IVpf0Lhps">
+-16.869265157359926 1.8471455534063606 -16.869265157359926 2.41354158185671 -16.308438744275122 2.41354158185671 -16.308438744275122 1.8471455534063606 -16.869265157359926 1.8471455534063606
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.f4ozPk32rYSLYqJdQZPa">
+-36.81303192012815 1.8471455534063606 -37.373858333212944 1.8471455534063606 -37.373858333212944 2.41354158185671 -36.81303192012815 2.41354158185671 -36.81303192012815 1.8471455534063606
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.iOmzvkYAV1Pa6m3betHU">
+-41.48146988176938 1.8471455534063606 -41.48146988176938 2.41354158185671 -40.92064346868459 2.41354158185671 -40.92064346868459 1.8471455534063606 -41.48146988176938 1.8471455534063606
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.ERb0pAVq5SW1GKwQnqLQ">
+-18.673727099617146 1.3390665162399118 -18.112900686532345 1.3390665162399118 -18.112900686532345 0.7726704877895626 -18.673727099617146 0.7726704877895626 -18.673727099617146 1.3390665162399118
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.KQOvgaDRGkkxxYI7cBen">
+-14.023005673408992 1.3390665162399118 -14.023005673408992 0.7726704877895626 -14.583832086493796 0.7726704877895626 -14.583832086493796 1.3390665162399118 -14.023005673408992 1.3390665162399118
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.NeHzjMHInUslYKdshtHH">
+3.622204658913032 1.8471455534063606 3.622204658913032 2.41354158185671 4.183031071997831 2.41354158185671 4.183031071997831 1.8471455534063606 3.622204658913032 1.8471455534063606
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.3fo5nVNIEKubvrgc7f1k">
+-8.620577493317942 1.8471455534063606 -8.620577493317942 2.41354158185671 -8.059751080233138 2.41354158185671 -8.059751080233138 1.8471455534063606 -8.620577493317942 1.8471455534063606
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.9QEeo84aKZbiJ9ybbhJK">
+-10.540524999879624 1.3390665162399118 -9.979698586794823 1.3390665162399118 -9.979698586794823 0.7726704877895626 -10.540524999879624 0.7726704877895626 -10.540524999879624 1.3390665162399118
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.1jd4WpsetOqCY7v5NIJN">
+-10.540524999879624 1.8471455534063606 -10.540524999879624 2.41354158185671 -9.979698586794823 2.41354158185671 -9.979698586794823 1.8471455534063606 -10.540524999879624 1.8471455534063606
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.RZQJtFFxXb9Z8bCoZ6vO">
+8.226338158612004 0.7726704877895626 7.665511745527201 0.7726704877895626 7.665511745527201 1.3390665162399118 8.226338158612004 1.3390665162399118 8.226338158612004 0.7726704877895626
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.mcsimylG4YJAxGNDb2hY">
+-30.50725764191293 2.41354158185671 -30.50725764191293 1.8471455534063606 -31.06808405499773 1.8471455534063606 -31.06808405499773 2.41354158185671 -30.50725764191293 2.41354158185671
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.w2sB8cpGTB1BGOBQaO8W">
+-36.81303192012815 1.3390665162399118 -36.81303192012815 0.7726704877895626 -37.373858333212944 0.7726704877895626 -37.373858333212944 1.3390665162399118 -36.81303192012815 1.3390665162399118
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.SY6DFbFXzo52aWnqN6vE">
+-45.00725764191292 0.7726704877895626 -45.568084054997726 0.7726704877895626 -45.568084054997726 1.3390665162399118 -45.00725764191292 1.3390665162399118 -45.00725764191292 0.7726704877895626
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.KRLUxMdP2PP3U2QTPOSv">
+-42.725105410941815 0.7726704877895626 -43.28593182402661 0.7726704877895626 -43.28593182402661 1.3390665162399118 -42.725105410941815 1.3390665162399118 -42.725105410941815 0.7726704877895626
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.CdI8zITsaKBgL0vfSB9T">
+-38.617493862385366 0.7726704877895626 -39.17832027547017 0.7726704877895626 -39.17832027547017 1.3390665162399118 -38.617493862385366 1.3390665162399118 -38.617493862385366 0.7726704877895626
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.O7LJO20zmhp3VAfrhjdd">
+-4.488031561559403 2.41354158185671 -3.9272051484745987 2.41354158185671 -3.9272051484745987 1.8471455534063606 -4.488031561559403 1.8471455534063606 -4.488031561559403 2.41354158185671
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.plphqOqlIv33E8BDC9xL">
+2.3785691297406113 0.7726704877895626 1.8177427166558089 0.7726704877895626 1.8177427166558089 1.3390665162399118 2.3785691297406113 1.3390665162399118 2.3785691297406113 0.7726704877895626
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.3nJpe9x2xlQasQHopZNJ">
+-14.583832086493796 2.41354158185671 -14.023005673408992 2.41354158185671 -14.023005673408992 1.8471455534063606 -14.583832086493796 1.8471455534063606 -14.583832086493796 2.41354158185671
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.QOHnpxwpt1sAbOHMjvle">
+-12.779370144236575 0.7726704877895626 -12.779370144236575 1.3390665162399118 -12.218543731151774 1.3390665162399118 -12.218543731151774 0.7726704877895626 -12.779370144236575 0.7726704877895626
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.U3qLtVFNtCWBKxSpIawQ">
+-4.488031561559403 0.7726704877895626 -4.488031561559403 1.3390665162399118 -3.9272051484745987 1.3390665162399118 -3.9272051484745987 0.7726704877895626 -4.488031561559403 0.7726704877895626
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.A6YO9tqNijL91wGCL9rP">
+-2.272152296467541 1.3390665162399118 -1.711325883382738 1.3390665162399118 -1.711325883382738 0.7726704877895626 -2.272152296467541 0.7726704877895626 -2.272152296467541 1.3390665162399118
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.HEV3kThY3lmRESOHtUUU">
+-41.48146988176938 1.3390665162399118 -40.92064346868459 1.3390665162399118 -40.92064346868459 0.7726704877895626 -41.48146988176938 0.7726704877895626 -41.48146988176938 1.3390665162399118
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.wYC4QNct7fGFKOWgPxo7">
+-46.81171958417015 0.7726704877895626 -47.37254599725495 0.7726704877895626 -47.37254599725495 1.3390665162399118 -46.81171958417015 1.3390665162399118 -46.81171958417015 0.7726704877895626
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.cPhdaI7Cv7gzwumpyidO">
+-2.272152296467541 1.8471455534063606 -2.272152296467541 2.41354158185671 -1.711325883382738 2.41354158185671 -1.711325883382738 1.8471455534063606 -2.272152296467541 1.8471455534063606
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.xExwkF5G9IS1sovcK8ns">
+-34.59715265503628 0.7726704877895626 -35.15797906812107 0.7726704877895626 -35.15797906812107 1.3390665162399118 -34.59715265503628 1.3390665162399118 -34.59715265503628 0.7726704877895626
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.EBXuNryeX4ho117Y89xa">
+-0.467690354210319 2.41354158185671 0.09313605887448384 2.41354158185671 0.09313605887448384 1.8471455534063606 -0.467690354210319 1.8471455534063606 -0.467690354210319 2.41354158185671
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.GXUVckBwKVdFSMGW4HKI">
+-6.2924935038166225 0.7726704877895626 -6.2924935038166225 1.3390665162399118 -5.731667090731822 1.3390665162399118 -5.731667090731822 0.7726704877895626 -6.2924935038166225 0.7726704877895626
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.XqcxI1KTAsBBJ6ayn50G">
+-31.06808405499773 0.7726704877895626 -31.06808405499773 1.3390665162399118 -30.50725764191293 1.3390665162399118 -30.50725764191293 0.7726704877895626 -31.06808405499773 0.7726704877895626
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.DnbewMjkkP5YBY5go9re">
+1.8177427166558089 1.8471455534063606 1.8177427166558089 2.41354158185671 2.3785691297406113 2.41354158185671 2.3785691297406113 1.8471455534063606 1.8177427166558089 1.8471455534063606
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.REyAfax2lBHrFZPSFus3">
+-29.263622112740517 0.7726704877895626 -29.263622112740517 1.3390665162399118 -28.702795699655713 1.3390665162399118 -28.702795699655713 0.7726704877895626 -29.263622112740517 0.7726704877895626
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.C9C9UTrNEK3nJoSB9RYv">
+4.183031071997831 0.7726704877895626 3.6222046589130295 0.7726704877895626 3.6222046589130295 1.3390665162399118 4.183031071997831 1.3390665162399118 4.183031071997831 0.7726704877895626
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.eTDrTPwuFqc4q57nAVQG">
+-0.46769035421032124 1.3390665162399118 0.09313605887448162 1.3390665162399118 0.09313605887448162 0.7726704877895626 -0.46769035421032124 0.7726704877895626 -0.46769035421032124 1.3390665162399118
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.RQEcuwCdqHAjuU9Ovpb5">
+-27.02477696838356 1.3390665162399118 -26.463950555298766 1.3390665162399118 -26.463950555298766 0.7726704877895626 -27.02477696838356 0.7726704877895626 -27.02477696838356 1.3390665162399118
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.17bTY5OfRwtgl8361Dcg">
+-5.731667090731822 1.8471455534063606 -6.2924935038166225 1.8471455534063606 -6.2924935038166225 2.41354158185671 -5.731667090731822 2.41354158185671 -5.731667090731822 1.8471455534063606
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.xq3R6NiKh3KeXEdQaOby">
+-25.220315026126343 1.3390665162399118 -24.659488613041542 1.3390665162399118 -24.659488613041542 0.7726704877895626 -25.220315026126343 0.7726704877895626 -25.220315026126343 1.3390665162399118
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.UB35sL2gMrjFyQWeaJD4">
+-27.02477696838356 1.8471455534063606 -27.02477696838356 2.41354158185671 -26.463950555298766 2.41354158185671 -26.463950555298766 1.8471455534063606 -27.02477696838356 1.8471455534063606
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.uSZDlxBR3wg3SazJV4Ot">
+-25.220315026126343 2.41354158185671 -24.659488613041542 2.41354158185671 -24.659488613041542 1.8471455534063606 -25.220315026126343 1.8471455534063606 -25.220315026126343 2.41354158185671
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.TOPl1dO6x424fqsh4Ku3">
+-8.620577493317942 1.3390665162399118 -8.059751080233138 1.3390665162399118 -8.059751080233138 0.7726704877895626 -8.620577493317942 0.7726704877895626 -8.620577493317942 1.3390665162399118
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.VxMZ6ve0d1O6IT7Vi6O7">
+-29.263622112740517 2.41354158185671 -28.702795699655713 2.41354158185671 -28.702795699655713 1.8471455534063606 -29.263622112740517 1.8471455534063606 -29.263622112740517 2.41354158185671
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.2eJAmfwmSED2xBoyIXRY">
+-16.308438744275126 0.7726704877895626 -16.86926515735993 0.7726704877895626 -16.86926515735993 1.3390665162399118 -16.308438744275126 1.3390665162399118 -16.308438744275126 0.7726704877895626
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+<app:target uri="#4018270_PG.pnvrBYV5pfWCtt1zS8Yq">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018270_LR.V2x3P5oOkS5xuYuKdx3k">
+-34.94318580688417 0.1633858266049997 -31.171035845440755 0.1633858266049997 -31.171035845440755 3.715100012391523 -33.719220379252185 3.715100012391523 -33.719220379252185 2.9700212248096904 -34.94318580688417 2.9700212248096904 -34.94318580688417 0.1633858266049997
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+<app:target uri="#4018270_PG.BLisknRV2a2s53rJLd3v">
+<app:TexCoordList>
+<app:textureCoordinates ring="#4018270_LR.wXhx2y74C2qYQlupVI5v">
+-9.591379354823351 0.16338582660499998 48.12283804018723 0.16338582660499998 48.12283804018723 3.7151000123915234 -9.591379354823351 3.7151000123915234 -9.591379354823351 0.16338582660499998
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.sndI6ehFWvTnblc0jP9o">
+46.25316334043279 1.8221785215129165 46.25316334043279 2.479658836473547 47.680984862742484 2.479658836473547 47.680984862742484 1.8221785215129165 46.25316334043279 1.8221785215129165
+</app:textureCoordinates>
+<app:textureCoordinates ring="#4018270_LR.bqxrnb3Sj11pgEXdm8PW">
+46.25316334043278 1.2795276028777465 46.96707410158763 1.2795276028777465 46.96707410158763 0.6220472879171163 46.25316334043278 0.6220472879171163 46.25316334043278 1.2795276028777465
+</app:textureCoordinates>
+</app:TexCoordList>
+</app:target>
+</app:ParameterizedTexture>
+</app:surfaceDataMember>
+<app:surfaceDataMember>
+<app:X3DMaterial>
+<app:ambientIntensity>0.2</app:ambientIntensity>
+<app:diffuseColor>0.39215686274509803 0.5843137254901961 0.9294117647058824</app:diffuseColor>
+<app:emissiveColor>0.0 0.0 0.0</app:emissiveColor>
+<app:specularColor>1.0 1.0 1.0</app:specularColor>
+<app:shininess>0.2</app:shininess>
+<app:transparency>0.5</app:transparency>
+<app:isSmooth>false</app:isSmooth>
+<app:target>#4018270_BP.B0R7t3gF5qfnYxAuJPGX_PG.xVZKKCnELJCVCzrRU47y</app:target>
+<app:target>#4018270_BP.56TnasI4XUvQTfin1PEU_PG.w1i6OHmEGR1myaltOjj7</app:target>
+<app:target>#4018270_BP.fSvU1PM6WaXGPVqHpx1H_PG.RqHTRrjFkYMRzTplwf3m</app:target>
+<app:target>#4018270_BP.CwXA2YBw2hpdATbs6fs1_PG.jAw7CrlS2pD5ajaayNTQ</app:target>
+<app:target>#4018270_BP.rTTNosUzF0jCjs1kyN10_PG.3c7bPjZt2KFXm7pCOjbP</app:target>
+<app:target>#4018270_BP.jqTkxnJ1a4BQTXhWc3vk_PG.OqZFID8p6N8UeOz2D6cT</app:target>
+<app:target>#4018270_BP.WvuQNnSYxo221xZtAMRE_PG.uUpedN0YXoDIkSwE18Qd</app:target>
+<app:target>#4018270_BP.5WDh3Nrm0cXQOzhwXeJV_PG.VZ9GKPapzg6sJK6aL9Ds</app:target>
+<app:target>#4018270_BP.Ku40swr0VADm6llnYv0V_PG.v8AIBD4kXX9pPeU3o0HC</app:target>
+<app:target>#4018270_BP.niBbAWZSMcvwftap3gKE_PG.pnUGwRtpelQEAMljbYFX</app:target>
+<app:target>#4018270_BP.H2nkU2uoRlr2r7J3JTac_PG.8mm72PCljstZZQZ5eOmy</app:target>
+<app:target>#4018270_BP.sDwxBdAOQp4nNup1MClu_PG.RMi7wcgMApDzPmNPor7T</app:target>
+<app:target>#4018270_BP.qqN7IOLFZsLDij5xWCaZ_PG.nwjylWb22g1MV2bMbuoc</app:target>
+<app:target>#4018270_BP.xbZ97rD4On4sFuyszSMS_PG.jjGPa3m55kYHenBHUU0o</app:target>
+<app:target>#4018270_BP.tD8C4YgxJOa5zQXztIpd_PG.8FPYcBpWwRt9nlqDQR58</app:target>
+<app:target>#4018270_BP.uDT6RreUANrLLuP73X5h_PG.C6a35dUgzZUwvS4LFd5e</app:target>
+<app:target>#4018270_BP.DRsbp3s5DgmyWOlSXw3p_PG.FJRjIkNMXl8c3HZAkZAf</app:target>
+<app:target>#4018270_BP.KQYwlVFJBj22DuyOulAi_PG.tIGL50bnabM23xIbbKm1</app:target>
+<app:target>#4018270_BP.kbSSBEJH1lsXrxAtYrVA_PG.Mk8PWXrcj8EcwCtQVuSO</app:target>
+<app:target>#4018270_BP.bOaHGknGR58QTJd3m1L4_PG.fcsvLSXsLWagnFVSgXUe</app:target>
+<app:target>#4018270_BP.bjoUonwAMcwZlIynzgpG_PG.mFeQKVLZyzYJdFStmd4e</app:target>
+<app:target>#4018270_BP.DJsHlfGDjiwkywkghmCi_PG.N9WRVIEIx4ZrG0U7NFGc</app:target>
+<app:target>#4018270_BP.HFp7MPXSFgsoR5utfZ7E_PG.wRhCRZmAs0PKQTip4NC9</app:target>
+<app:target>#4018270_BP.1uJKudLdU4LDEAqDH0gd_PG.pnHP4bRY1Y7G5nPEioo3</app:target>
+<app:target>#4018270_BP.GfqLypNCIxB2WtCFX7mJ_PG.HJGbiHdwmnjcaGqpydWM</app:target>
+<app:target>#4018270_BP.EZHwHOExHRBy8gRbDmSE_PG.AozPzwI8CuTiBiZXhDRq</app:target>
+<app:target>#4018270_BP.TDcdhRmgyuF6bd42yAtZ_PG.CqFQDZt8C7bT78ZRWqzr</app:target>
+<app:target>#4018270_BP.TGgJ9wfeaQfi9N0Ejg3Q_PG.I1YlyGS31gtwapUxh0fc</app:target>
+<app:target>#4018270_BP.PQBpEeqW0XHt8JbTdl5k_PG.gVXkgXcyoaRmDIQZgaQg</app:target>
+<app:target>#4018270_BP.xAICegQRvfcGFt6ALEX3_PG.2SRt0UGc0hQ0HUi7xjGU</app:target>
+<app:target>#4018270_BP.JFWJIt0Fp6DgFllchg1O_PG.ZDmQPcmllHaDuXCTcUPx</app:target>
+<app:target>#4018270_BP.dMdNgUzEgbXwK1EZyBiS_PG.9E60tu8d3yfJRl3gwOAi</app:target>
+<app:target>#4018270_BP.YQx8hSRYkQdRBdltNxZo_PG.bzFDAhlVTjmkI1f74lPb</app:target>
+<app:target>#4018270_BP.Nrv7X1YG5Zl7b0asqCKl_PG.OYjffR2lbcXQEDlCxEKb</app:target>
+<app:target>#4018270_BP.M7LSGVhqzSwe5qG0okfC_PG.STQZ8kiLTwpfqCukz7EJ</app:target>
+<app:target>#4018270_BP.SCiRx7FYiqIPzvVDMDS8_PG.lPocnnrXG1esuQEymUqY</app:target>
+<app:target>#4018270_BP.XWdf394C6sYODAG9JZFn_PG.1n9oqXTir3qrYwoHUD7P</app:target>
+<app:target>#4018270_BP.5rvr2gGi1gEL5PZkpXZM_PG.xk7xz0ByAb7iRtk00TgG</app:target>
+<app:target>#4018270_BP.rFw0N2wrXnE3kbOtms4R_PG.00C4QkW4UsBF5uKWBxiL</app:target>
+<app:target>#4018270_BP.QukUPfU6OE8ZHPW1T7ZM_PG.VFo7G4sxbyR8rvs8LkNm</app:target>
+<app:target>#4018270_BP.fjI0eiuuKF5ekryP52kj_PG.UYLK6QaONCd4wEr6Aoxq</app:target>
+<app:target>#4018270_BP.a5eEOKRK6ZQsRhZPpoXs_PG.KneXVDZAjBhn3VW98TvP</app:target>
+<app:target>#4018270_BP.99RSkBAsAdiBNDNr5Rmx_PG.70XWtNnih1qybNlXxSG0</app:target>
+<app:target>#4018270_BP.2G0TC33bmznDUur20cpf_PG.wlJ9JSqLO2mjBQTriPYp</app:target>
+<app:target>#4018270_BP.OOndga1IWZCL675vNLAM_PG.sFExb4B1cZb6xZQ27dlG</app:target>
+<app:target>#4018270_BP.ene8lZ6JQ1TeZejobnqb_PG.WFGv956k4yUupgWHd0XZ</app:target>
+<app:target>#4018270_BP.YjRM71ffuOzcSItglgG2_PG.W6k6MbWrwMCQufx08Mnr</app:target>
+<app:target>#4018270_BP.zdn00idGQYNm1DyLuIH1_PG.qVQncc0DLWtf5hiv2dRw</app:target>
+<app:target>#4018270_BP.t5iwevkcnV2ZJBr6TKPU_PG.5KsClXknnZcTJaJsjfUd</app:target>
+<app:target>#4018270_BP.wZRA8PLtb3nFGfTDsjml_PG.vpj8cVY7KmbgKoB4TrXV</app:target>
+<app:target>#4018270_BP.j0CGXZwQWDSnNdh8ftJj_PG.QHgdNi0PcUGqxTl02sMJ</app:target>
+<app:target>#4018270_BP.kwia9BhsXp8GNFIbHKVP_PG.unh1NORl1ZBPhHMhZvWH</app:target>
+<app:target>#4018270_BP.isIX9B6jtobFilrCx4fo_PG.BJGIL1t57o3QAtqJfZUQ</app:target>
+<app:target>#4018270_BP.YluBtyRMu4Nunlgtlqkt_PG.CRXE6TE7ng1NZpH4Wzpo</app:target>
+<app:target>#4018270_BP.YzF6opc61RITVZrkuiG3_PG.2fMnAZN9RuCK2tO1nx9u</app:target>
+<app:target>#4018270_BP.bggUQcX340zf93wWwXEA_PG.SYwHKG73XpLl8gRCZaT2</app:target>
+<app:target>#4018270_BP.aw1DYWa9wLgEE6OkLxoM_PG.9MBlt6HnLZOhGm7qKjsv</app:target>
+</app:X3DMaterial>
+</app:surfaceDataMember>
+<app:surfaceDataMember>
+<app:X3DMaterial>
+<app:ambientIntensity>0.2</app:ambientIntensity>
+<app:diffuseColor>1.0 0.9803921568627451 0.9803921568627451</app:diffuseColor>
+<app:emissiveColor>0.0 0.0 0.0</app:emissiveColor>
+<app:specularColor>1.0 1.0 1.0</app:specularColor>
+<app:shininess>0.2</app:shininess>
+<app:transparency>0.0</app:transparency>
+<app:isSmooth>false</app:isSmooth>
+<app:target>#4018270_PG.MH8mk7o5LQdfUAG7vU5k</app:target>
+<app:target>#4018270_PG.vrRBNtQtYax2YstlM0fC</app:target>
+</app:X3DMaterial>
+</app:surfaceDataMember>
+<app:surfaceDataMember>
+<app:X3DMaterial>
+<app:isFront>false</app:isFront>
+<app:ambientIntensity>0.2</app:ambientIntensity>
+<app:diffuseColor>0.5019607843137255 0.5019607843137255 0.5019607843137255</app:diffuseColor>
+<app:emissiveColor>0.0 0.0 0.0</app:emissiveColor>
+<app:specularColor>1.0 1.0 1.0</app:specularColor>
+<app:shininess>0.2</app:shininess>
+<app:transparency>0.5</app:transparency>
+<app:isSmooth>false</app:isSmooth>
+<app:target>#4018270_BP.B0R7t3gF5qfnYxAuJPGX_PG.xVZKKCnELJCVCzrRU47y</app:target>
+<app:target>#4018270_BP.56TnasI4XUvQTfin1PEU_PG.w1i6OHmEGR1myaltOjj7</app:target>
+<app:target>#4018270_BP.fSvU1PM6WaXGPVqHpx1H_PG.RqHTRrjFkYMRzTplwf3m</app:target>
+<app:target>#4018270_BP.CwXA2YBw2hpdATbs6fs1_PG.jAw7CrlS2pD5ajaayNTQ</app:target>
+<app:target>#4018270_BP.rTTNosUzF0jCjs1kyN10_PG.3c7bPjZt2KFXm7pCOjbP</app:target>
+<app:target>#4018270_BP.jqTkxnJ1a4BQTXhWc3vk_PG.OqZFID8p6N8UeOz2D6cT</app:target>
+<app:target>#4018270_BP.WvuQNnSYxo221xZtAMRE_PG.uUpedN0YXoDIkSwE18Qd</app:target>
+<app:target>#4018270_BP.5WDh3Nrm0cXQOzhwXeJV_PG.VZ9GKPapzg6sJK6aL9Ds</app:target>
+<app:target>#4018270_BP.Ku40swr0VADm6llnYv0V_PG.v8AIBD4kXX9pPeU3o0HC</app:target>
+<app:target>#4018270_BP.niBbAWZSMcvwftap3gKE_PG.pnUGwRtpelQEAMljbYFX</app:target>
+<app:target>#4018270_BP.H2nkU2uoRlr2r7J3JTac_PG.8mm72PCljstZZQZ5eOmy</app:target>
+<app:target>#4018270_BP.sDwxBdAOQp4nNup1MClu_PG.RMi7wcgMApDzPmNPor7T</app:target>
+<app:target>#4018270_BP.qqN7IOLFZsLDij5xWCaZ_PG.nwjylWb22g1MV2bMbuoc</app:target>
+<app:target>#4018270_BP.xbZ97rD4On4sFuyszSMS_PG.jjGPa3m55kYHenBHUU0o</app:target>
+<app:target>#4018270_BP.tD8C4YgxJOa5zQXztIpd_PG.8FPYcBpWwRt9nlqDQR58</app:target>
+<app:target>#4018270_BP.uDT6RreUANrLLuP73X5h_PG.C6a35dUgzZUwvS4LFd5e</app:target>
+<app:target>#4018270_BP.DRsbp3s5DgmyWOlSXw3p_PG.FJRjIkNMXl8c3HZAkZAf</app:target>
+<app:target>#4018270_BP.KQYwlVFJBj22DuyOulAi_PG.tIGL50bnabM23xIbbKm1</app:target>
+<app:target>#4018270_BP.kbSSBEJH1lsXrxAtYrVA_PG.Mk8PWXrcj8EcwCtQVuSO</app:target>
+<app:target>#4018270_BP.bOaHGknGR58QTJd3m1L4_PG.fcsvLSXsLWagnFVSgXUe</app:target>
+<app:target>#4018270_BP.bjoUonwAMcwZlIynzgpG_PG.mFeQKVLZyzYJdFStmd4e</app:target>
+<app:target>#4018270_BP.DJsHlfGDjiwkywkghmCi_PG.N9WRVIEIx4ZrG0U7NFGc</app:target>
+<app:target>#4018270_BP.HFp7MPXSFgsoR5utfZ7E_PG.wRhCRZmAs0PKQTip4NC9</app:target>
+<app:target>#4018270_BP.1uJKudLdU4LDEAqDH0gd_PG.pnHP4bRY1Y7G5nPEioo3</app:target>
+<app:target>#4018270_BP.GfqLypNCIxB2WtCFX7mJ_PG.HJGbiHdwmnjcaGqpydWM</app:target>
+<app:target>#4018270_BP.EZHwHOExHRBy8gRbDmSE_PG.AozPzwI8CuTiBiZXhDRq</app:target>
+<app:target>#4018270_BP.TDcdhRmgyuF6bd42yAtZ_PG.CqFQDZt8C7bT78ZRWqzr</app:target>
+<app:target>#4018270_BP.TGgJ9wfeaQfi9N0Ejg3Q_PG.I1YlyGS31gtwapUxh0fc</app:target>
+<app:target>#4018270_BP.PQBpEeqW0XHt8JbTdl5k_PG.gVXkgXcyoaRmDIQZgaQg</app:target>
+<app:target>#4018270_BP.xAICegQRvfcGFt6ALEX3_PG.2SRt0UGc0hQ0HUi7xjGU</app:target>
+<app:target>#4018270_BP.JFWJIt0Fp6DgFllchg1O_PG.ZDmQPcmllHaDuXCTcUPx</app:target>
+<app:target>#4018270_BP.dMdNgUzEgbXwK1EZyBiS_PG.9E60tu8d3yfJRl3gwOAi</app:target>
+<app:target>#4018270_BP.YQx8hSRYkQdRBdltNxZo_PG.bzFDAhlVTjmkI1f74lPb</app:target>
+<app:target>#4018270_BP.Nrv7X1YG5Zl7b0asqCKl_PG.OYjffR2lbcXQEDlCxEKb</app:target>
+<app:target>#4018270_BP.M7LSGVhqzSwe5qG0okfC_PG.STQZ8kiLTwpfqCukz7EJ</app:target>
+<app:target>#4018270_BP.SCiRx7FYiqIPzvVDMDS8_PG.lPocnnrXG1esuQEymUqY</app:target>
+<app:target>#4018270_BP.XWdf394C6sYODAG9JZFn_PG.1n9oqXTir3qrYwoHUD7P</app:target>
+<app:target>#4018270_BP.5rvr2gGi1gEL5PZkpXZM_PG.xk7xz0ByAb7iRtk00TgG</app:target>
+<app:target>#4018270_BP.rFw0N2wrXnE3kbOtms4R_PG.00C4QkW4UsBF5uKWBxiL</app:target>
+<app:target>#4018270_BP.QukUPfU6OE8ZHPW1T7ZM_PG.VFo7G4sxbyR8rvs8LkNm</app:target>
+<app:target>#4018270_BP.fjI0eiuuKF5ekryP52kj_PG.UYLK6QaONCd4wEr6Aoxq</app:target>
+<app:target>#4018270_BP.a5eEOKRK6ZQsRhZPpoXs_PG.KneXVDZAjBhn3VW98TvP</app:target>
+<app:target>#4018270_BP.99RSkBAsAdiBNDNr5Rmx_PG.70XWtNnih1qybNlXxSG0</app:target>
+<app:target>#4018270_BP.2G0TC33bmznDUur20cpf_PG.wlJ9JSqLO2mjBQTriPYp</app:target>
+<app:target>#4018270_BP.OOndga1IWZCL675vNLAM_PG.sFExb4B1cZb6xZQ27dlG</app:target>
+<app:target>#4018270_BP.ene8lZ6JQ1TeZejobnqb_PG.WFGv956k4yUupgWHd0XZ</app:target>
+<app:target>#4018270_BP.YjRM71ffuOzcSItglgG2_PG.W6k6MbWrwMCQufx08Mnr</app:target>
+<app:target>#4018270_BP.zdn00idGQYNm1DyLuIH1_PG.qVQncc0DLWtf5hiv2dRw</app:target>
+<app:target>#4018270_BP.t5iwevkcnV2ZJBr6TKPU_PG.5KsClXknnZcTJaJsjfUd</app:target>
+<app:target>#4018270_BP.wZRA8PLtb3nFGfTDsjml_PG.vpj8cVY7KmbgKoB4TrXV</app:target>
+<app:target>#4018270_BP.isIX9B6jtobFilrCx4fo_PG.BJGIL1t57o3QAtqJfZUQ</app:target>
+<app:target>#4018270_BP.YluBtyRMu4Nunlgtlqkt_PG.CRXE6TE7ng1NZpH4Wzpo</app:target>
+<app:target>#4018270_BP.YzF6opc61RITVZrkuiG3_PG.2fMnAZN9RuCK2tO1nx9u</app:target>
+<app:target>#4018270_BP.bggUQcX340zf93wWwXEA_PG.SYwHKG73XpLl8gRCZaT2</app:target>
+<app:target>#4018270_BP.aw1DYWa9wLgEE6OkLxoM_PG.9MBlt6HnLZOhGm7qKjsv</app:target>
+</app:X3DMaterial>
+</app:surfaceDataMember>
+<app:surfaceDataMember>
+<app:X3DMaterial>
+<app:isFront>false</app:isFront>
+<app:ambientIntensity>0.2</app:ambientIntensity>
+<app:diffuseColor>0.39215686274509803 0.5843137254901961 0.9294117647058824</app:diffuseColor>
+<app:emissiveColor>0.0 0.0 0.0</app:emissiveColor>
+<app:specularColor>1.0 1.0 1.0</app:specularColor>
+<app:shininess>0.2</app:shininess>
+<app:transparency>0.5</app:transparency>
+<app:isSmooth>false</app:isSmooth>
+<app:target>#4018270_BP.j0CGXZwQWDSnNdh8ftJj_PG.QHgdNi0PcUGqxTl02sMJ</app:target>
+<app:target>#4018270_BP.kwia9BhsXp8GNFIbHKVP_PG.unh1NORl1ZBPhHMhZvWH</app:target>
+</app:X3DMaterial>
+</app:surfaceDataMember>
+</app:Appearance>
+</app:appearanceMember>
+</core:CityModel>

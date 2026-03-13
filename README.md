@@ -55,6 +55,21 @@ Further information:
 
 ![Street-level view](documentation/images/street-level-view.svg "Street-level view of the LOD3 road space model")
 
+## :books: Citation
+
+If you use the datasets in your research, please cite the [following preprint](https://arxiv.org/abs/2603.11252):
+```bibtex
+@misc{schwab2026radiometricfingerprinting,
+      title={Radiometric fingerprinting of object surfaces using mobile laser scanning and semantic 3D road space models},
+      author={Benedikt Schwab and Thomas H. Kolbe},
+      year={2026},
+      eprint={2603.11252},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2603.11252},
+}
+```
+
 ## :incoming_envelope: Feedback & Contributions
 
 To expand and improve the dataset, [feedback and contributions](https://github.com/savenow/lod3-road-space-models/issues) are always appreciated.

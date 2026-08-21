@@ -57,16 +57,21 @@ Further information:
 
 ## :books: Citation
 
-If you use the datasets in your research, please cite the [following preprint](https://arxiv.org/abs/2603.11252):
+If you use the datasets in your research, please cite the [following article](https://doi.org/10.1016/j.jag.2026.105533):
+
 ```bibtex
-@misc{schwab2026radiometricfingerprinting,
-      title={Radiometric fingerprinting of object surfaces using mobile laser scanning and semantic 3D road space models},
-      author={Benedikt Schwab and Thomas H. Kolbe},
-      year={2026},
-      eprint={2603.11252},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2603.11252},
+@article{schwabRadiometricFingerprinting2026,
+    author = {Benedikt Schwab and Thomas H. Kolbe},
+    title = {Radiometric fingerprinting of object surfaces using mobile laser scanning and semantic 3D road space models},
+    journal = {International Journal of Applied Earth Observation and Geoinformation},
+    volume = {153},
+    pages = {105533},
+    year = {2026},
+    issn = {1569-8432},
+    doi = {https://doi.org/10.1016/j.jag.2026.105533},
+    url = {https://www.sciencedirect.com/science/article/pii/S1569843226004498},
+    keywords = {Radiometric fingerprint, Mobile laser scanning, Semantic road space model, CityGML, 3DSensorDB},
+    abstract = {Although semantic 3D city models are internationally available and becoming increasingly detailed, the incorporation of material information remains largely untapped. However, a structured representation of materials and their physical properties could substantially broaden the application spectrum and analytical capabilities for urban digital twins. At the same time, the growing number of repeated mobile laser scans of cities and their street spaces yields a wealth of observations influenced by the material characteristics of the corresponding surfaces. To leverage this information, we propose radiometric fingerprints of object surfaces by grouping LiDAR observations reflected from the same semantic object under varying distances, incidence angles, environmental conditions, sensors, and scanning campaigns. Our study demonstrates how 312.4million individual beams acquired across four campaigns using five LiDAR sensors on the Audi Autonomous Driving Dataset (A2D2) vehicle can be automatically associated with 6368 individual objects of the semantic 3D city model. The model comprises a comprehensive and semantic representation of four inner-city streets at Level of Detail (LOD) 3 with centimeter-level accuracy. It is based on the CityGML 3.0 standard and enables fine-grained sub-differentiation of objects. The extracted radiometric fingerprints for object surfaces reveal recurring intra-class patterns that indicate class-dominant materials. The semantic model, the method implementations, and the developed geodatabase solution 3DSensorDB are released under: https://github.com/tum-gis/sensordb}
 }
 ```
 
